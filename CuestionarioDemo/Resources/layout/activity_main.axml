@@ -12,12 +12,17 @@
 		android:layout_gravity="center_horizontal"/>
 
 	<LinearLayout
-		android:id="@+id/lnPreguntas"
 		android:layout_width="match_parent"
 		android:layout_height="match_parent"
-		android:orientation="vertical"
 		android:gravity="center">
-		<android.support.design.widget.TextInputLayout 
+		<LinearLayout
+			android:id="@+id/lnPreguntas"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:background="#7F000000"
+			android:gravity="center">
+			<android.support.design.widget.TextInputLayout 
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
 				android:theme="@style/myStyleLabel"
@@ -25,46 +30,42 @@
 				android:layout_marginRight="15dp">
 			<EditText
 				android:layout_width="match_parent"
-					android:layout_height="wrap_content"
-					android:hint="Usuario"
-					android:textSize="20dp"
-					android:inputType="textEmailAddress"
-					android:singleLine="true"
-					android:id="@+id/txtUsuario"
-					android:textColor="#fff"
-			/>
+				android:layout_height="wrap_content"
+				android:hint="Usuario"
+				android:textSize="20dp"
+				android:inputType="textEmailAddress"
+				android:singleLine="true"
+				android:id="@+id/txtUsuario"
+				android:textColor="#fff"
+				/>
 			</android.support.design.widget.TextInputLayout >
-		<android.support.design.widget.TextInputLayout 
+			<android.support.design.widget.TextInputLayout 
 				android:layout_width="match_parent"
 				android:layout_height="wrap_content"
 				android:theme="@style/myStyleLabel"
 				android:layout_marginLeft="15dp"
 				android:layout_marginRight="15dp">
-			<EditText
-				
-				android:layout_width="match_parent"
+				<EditText
+					android:layout_width="match_parent"
 					android:layout_height="wrap_content"
-					android:hint="Contrasena"
+					android:hint="Contraseña"
 					android:textSize="20dp"
 					android:inputType="textPassword"
 					android:singleLine="true"
 					android:id="@+id/txtContrasena"
-					android:textColor="#fff"
-			/>
-			</android.support.design.widget.TextInputLayout>
-		<Button
-			android:text="L o g i n"
-			android:textColor="#fff"
-			android:layout_width="match_parent"
-			android:layout_height="wrap_content"
-			android:textAllCaps="false"
-			android:textSize="25dp"
-			android:background="@color/azul"
-			android:layout_marginLeft="25dp"
-			android:layout_marginRight="25dp"
-			android:layout_marginTop="25dp"
-			android:id="@+id/btnLogin"
-		/>
+					android:textColor="#fff"/>
+			</android.support.design.widget.TextInputLayout >
+			<Button
+				android:text="Login" 
+				android:textColor="#fff" 
+				android:fontFamily="@android:string/yes"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:textAllCaps="false"
+				android:textSize="23dp"
+				android:background="@color/azul"
+				android:layout_margin="25dp"
+				android:id="@+id/btnLogin"/>
+		</LinearLayout>
 	</LinearLayout>
-
 </RelativeLayout>
