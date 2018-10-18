@@ -13,6 +13,7 @@ namespace CuestionarioDemo
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
     public class MainActivity : AppCompatActivity, MediaPlayer.IOnPreparedListener
     {
+        //prueba common
         EditText txtUsuario, txtPassword;
         Button btnLogin;
 
