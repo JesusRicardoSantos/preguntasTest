@@ -50,36 +50,24 @@
     <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Mono.Android.Export" />
     <Reference Include="System" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.EnterpriseServices" />
-    <Reference Include="System.Web.Services" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Mono.Android" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActivityMenu.cs" />
-    <Compile Include="General.cs" />
+    <Compile Include="FragmentPreguntas.cs" />
+    <Compile Include="FragmentRespuestas.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="MenuActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Web References\com.somee.servicioweb1test\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.map</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\LeonaliDB.db" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
-    <None Include="Web References\com.somee.servicioweb1test\Reference.map">
-      <Generator>MSDiscoCodeGenerator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
-    <None Include="Web References\com.somee.servicioweb1test\Service.wsdl" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\activity_main.axml">
@@ -110,37 +98,37 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_round.png" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json">
-      <Version>11.0.2</Version>
+    <PackageReference Include="Refractored.PagerSlidingTabStrip">
+      <Version>1.1.6</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Design" Version="27.0.2.1" />
+    <PackageReference Include="Xamarin.Android.Support.v4">
+      <Version>27.0.2.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Android.Support.v7.AppCompat">
+      <Version>27.0.2.1</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\raw\agri.mp4" />
   </ItemGroup>
   <ItemGroup>
-    <WebReferences Include="Web References\" />
+    <AndroidResource Include="Resources\layout\Menu.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <WebReferenceUrl Include="http://servicioweb1test.somee.com/Service.asmx">
-      <UrlBehavior>Dynamic</UrlBehavior>
-      <RelPath>Web References\com.somee.servicioweb1test\</RelPath>
-      <UpdateFromURL>http://servicioweb1test.somee.com/Service.asmx</UpdateFromURL>
-      <ServiceLocationURL>
-      </ServiceLocationURL>
-      <CachedDynamicPropName>
-      </CachedDynamicPropName>
-      <CachedAppSettingsObjectName>
-      </CachedAppSettingsObjectName>
-      <CachedSettingsPropName>
-      </CachedSettingsPropName>
-    </WebReferenceUrl>
+    <AndroidResource Include="Resources\layout\layoutPreguntas.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Web References\com.somee.servicioweb1test\Service.disco" />
+    <AndroidResource Include="Resources\layout\layoutRespuestas.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\layout_activityMenu.axml">
+    <AndroidResource Include="Resources\layout\itemsLista.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

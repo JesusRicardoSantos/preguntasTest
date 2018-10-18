@@ -26,6 +26,1266 @@ namespace CuestionarioDemo
 		
 		public static void UpdateIdValues()
 		{
+			global::com.refractored.Resource.Animation.abc_fade_in = global::CuestionarioDemo.Resource.Animation.abc_fade_in;
+			global::com.refractored.Resource.Animation.abc_fade_out = global::CuestionarioDemo.Resource.Animation.abc_fade_out;
+			global::com.refractored.Resource.Animation.abc_grow_fade_in_from_bottom = global::CuestionarioDemo.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::com.refractored.Resource.Animation.abc_popup_enter = global::CuestionarioDemo.Resource.Animation.abc_popup_enter;
+			global::com.refractored.Resource.Animation.abc_popup_exit = global::CuestionarioDemo.Resource.Animation.abc_popup_exit;
+			global::com.refractored.Resource.Animation.abc_shrink_fade_out_from_bottom = global::CuestionarioDemo.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::com.refractored.Resource.Animation.abc_slide_in_bottom = global::CuestionarioDemo.Resource.Animation.abc_slide_in_bottom;
+			global::com.refractored.Resource.Animation.abc_slide_in_top = global::CuestionarioDemo.Resource.Animation.abc_slide_in_top;
+			global::com.refractored.Resource.Animation.abc_slide_out_bottom = global::CuestionarioDemo.Resource.Animation.abc_slide_out_bottom;
+			global::com.refractored.Resource.Animation.abc_slide_out_top = global::CuestionarioDemo.Resource.Animation.abc_slide_out_top;
+			global::com.refractored.Resource.Attribute.actionBarDivider = global::CuestionarioDemo.Resource.Attribute.actionBarDivider;
+			global::com.refractored.Resource.Attribute.actionBarItemBackground = global::CuestionarioDemo.Resource.Attribute.actionBarItemBackground;
+			global::com.refractored.Resource.Attribute.actionBarPopupTheme = global::CuestionarioDemo.Resource.Attribute.actionBarPopupTheme;
+			global::com.refractored.Resource.Attribute.actionBarSize = global::CuestionarioDemo.Resource.Attribute.actionBarSize;
+			global::com.refractored.Resource.Attribute.actionBarSplitStyle = global::CuestionarioDemo.Resource.Attribute.actionBarSplitStyle;
+			global::com.refractored.Resource.Attribute.actionBarStyle = global::CuestionarioDemo.Resource.Attribute.actionBarStyle;
+			global::com.refractored.Resource.Attribute.actionBarTabBarStyle = global::CuestionarioDemo.Resource.Attribute.actionBarTabBarStyle;
+			global::com.refractored.Resource.Attribute.actionBarTabStyle = global::CuestionarioDemo.Resource.Attribute.actionBarTabStyle;
+			global::com.refractored.Resource.Attribute.actionBarTabTextStyle = global::CuestionarioDemo.Resource.Attribute.actionBarTabTextStyle;
+			global::com.refractored.Resource.Attribute.actionBarTheme = global::CuestionarioDemo.Resource.Attribute.actionBarTheme;
+			global::com.refractored.Resource.Attribute.actionBarWidgetTheme = global::CuestionarioDemo.Resource.Attribute.actionBarWidgetTheme;
+			global::com.refractored.Resource.Attribute.actionButtonStyle = global::CuestionarioDemo.Resource.Attribute.actionButtonStyle;
+			global::com.refractored.Resource.Attribute.actionDropDownStyle = global::CuestionarioDemo.Resource.Attribute.actionDropDownStyle;
+			global::com.refractored.Resource.Attribute.actionLayout = global::CuestionarioDemo.Resource.Attribute.actionLayout;
+			global::com.refractored.Resource.Attribute.actionMenuTextAppearance = global::CuestionarioDemo.Resource.Attribute.actionMenuTextAppearance;
+			global::com.refractored.Resource.Attribute.actionMenuTextColor = global::CuestionarioDemo.Resource.Attribute.actionMenuTextColor;
+			global::com.refractored.Resource.Attribute.actionModeBackground = global::CuestionarioDemo.Resource.Attribute.actionModeBackground;
+			global::com.refractored.Resource.Attribute.actionModeCloseButtonStyle = global::CuestionarioDemo.Resource.Attribute.actionModeCloseButtonStyle;
+			global::com.refractored.Resource.Attribute.actionModeCloseDrawable = global::CuestionarioDemo.Resource.Attribute.actionModeCloseDrawable;
+			global::com.refractored.Resource.Attribute.actionModeCopyDrawable = global::CuestionarioDemo.Resource.Attribute.actionModeCopyDrawable;
+			global::com.refractored.Resource.Attribute.actionModeCutDrawable = global::CuestionarioDemo.Resource.Attribute.actionModeCutDrawable;
+			global::com.refractored.Resource.Attribute.actionModeFindDrawable = global::CuestionarioDemo.Resource.Attribute.actionModeFindDrawable;
+			global::com.refractored.Resource.Attribute.actionModePasteDrawable = global::CuestionarioDemo.Resource.Attribute.actionModePasteDrawable;
+			global::com.refractored.Resource.Attribute.actionModePopupWindowStyle = global::CuestionarioDemo.Resource.Attribute.actionModePopupWindowStyle;
+			global::com.refractored.Resource.Attribute.actionModeSelectAllDrawable = global::CuestionarioDemo.Resource.Attribute.actionModeSelectAllDrawable;
+			global::com.refractored.Resource.Attribute.actionModeShareDrawable = global::CuestionarioDemo.Resource.Attribute.actionModeShareDrawable;
+			global::com.refractored.Resource.Attribute.actionModeSplitBackground = global::CuestionarioDemo.Resource.Attribute.actionModeSplitBackground;
+			global::com.refractored.Resource.Attribute.actionModeStyle = global::CuestionarioDemo.Resource.Attribute.actionModeStyle;
+			global::com.refractored.Resource.Attribute.actionModeWebSearchDrawable = global::CuestionarioDemo.Resource.Attribute.actionModeWebSearchDrawable;
+			global::com.refractored.Resource.Attribute.actionOverflowButtonStyle = global::CuestionarioDemo.Resource.Attribute.actionOverflowButtonStyle;
+			global::com.refractored.Resource.Attribute.actionOverflowMenuStyle = global::CuestionarioDemo.Resource.Attribute.actionOverflowMenuStyle;
+			global::com.refractored.Resource.Attribute.actionProviderClass = global::CuestionarioDemo.Resource.Attribute.actionProviderClass;
+			global::com.refractored.Resource.Attribute.actionViewClass = global::CuestionarioDemo.Resource.Attribute.actionViewClass;
+			global::com.refractored.Resource.Attribute.activityChooserViewStyle = global::CuestionarioDemo.Resource.Attribute.activityChooserViewStyle;
+			global::com.refractored.Resource.Attribute.alertDialogButtonGroupStyle = global::CuestionarioDemo.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::com.refractored.Resource.Attribute.alertDialogCenterButtons = global::CuestionarioDemo.Resource.Attribute.alertDialogCenterButtons;
+			global::com.refractored.Resource.Attribute.alertDialogStyle = global::CuestionarioDemo.Resource.Attribute.alertDialogStyle;
+			global::com.refractored.Resource.Attribute.alertDialogTheme = global::CuestionarioDemo.Resource.Attribute.alertDialogTheme;
+			global::com.refractored.Resource.Attribute.allowStacking = global::CuestionarioDemo.Resource.Attribute.allowStacking;
+			global::com.refractored.Resource.Attribute.arrowHeadLength = global::CuestionarioDemo.Resource.Attribute.arrowHeadLength;
+			global::com.refractored.Resource.Attribute.arrowShaftLength = global::CuestionarioDemo.Resource.Attribute.arrowShaftLength;
+			global::com.refractored.Resource.Attribute.autoCompleteTextViewStyle = global::CuestionarioDemo.Resource.Attribute.autoCompleteTextViewStyle;
+			global::com.refractored.Resource.Attribute.background = global::CuestionarioDemo.Resource.Attribute.background;
+			global::com.refractored.Resource.Attribute.backgroundSplit = global::CuestionarioDemo.Resource.Attribute.backgroundSplit;
+			global::com.refractored.Resource.Attribute.backgroundStacked = global::CuestionarioDemo.Resource.Attribute.backgroundStacked;
+			global::com.refractored.Resource.Attribute.backgroundTint = global::CuestionarioDemo.Resource.Attribute.backgroundTint;
+			global::com.refractored.Resource.Attribute.backgroundTintMode = global::CuestionarioDemo.Resource.Attribute.backgroundTintMode;
+			global::com.refractored.Resource.Attribute.barLength = global::CuestionarioDemo.Resource.Attribute.barLength;
+			global::com.refractored.Resource.Attribute.borderlessButtonStyle = global::CuestionarioDemo.Resource.Attribute.borderlessButtonStyle;
+			global::com.refractored.Resource.Attribute.buttonBarButtonStyle = global::CuestionarioDemo.Resource.Attribute.buttonBarButtonStyle;
+			global::com.refractored.Resource.Attribute.buttonBarNegativeButtonStyle = global::CuestionarioDemo.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::com.refractored.Resource.Attribute.buttonBarNeutralButtonStyle = global::CuestionarioDemo.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::com.refractored.Resource.Attribute.buttonBarPositiveButtonStyle = global::CuestionarioDemo.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::com.refractored.Resource.Attribute.buttonBarStyle = global::CuestionarioDemo.Resource.Attribute.buttonBarStyle;
+			global::com.refractored.Resource.Attribute.buttonPanelSideLayout = global::CuestionarioDemo.Resource.Attribute.buttonPanelSideLayout;
+			global::com.refractored.Resource.Attribute.buttonStyle = global::CuestionarioDemo.Resource.Attribute.buttonStyle;
+			global::com.refractored.Resource.Attribute.buttonStyleSmall = global::CuestionarioDemo.Resource.Attribute.buttonStyleSmall;
+			global::com.refractored.Resource.Attribute.buttonTint = global::CuestionarioDemo.Resource.Attribute.buttonTint;
+			global::com.refractored.Resource.Attribute.buttonTintMode = global::CuestionarioDemo.Resource.Attribute.buttonTintMode;
+			global::com.refractored.Resource.Attribute.checkboxStyle = global::CuestionarioDemo.Resource.Attribute.checkboxStyle;
+			global::com.refractored.Resource.Attribute.checkedTextViewStyle = global::CuestionarioDemo.Resource.Attribute.checkedTextViewStyle;
+			global::com.refractored.Resource.Attribute.closeIcon = global::CuestionarioDemo.Resource.Attribute.closeIcon;
+			global::com.refractored.Resource.Attribute.closeItemLayout = global::CuestionarioDemo.Resource.Attribute.closeItemLayout;
+			global::com.refractored.Resource.Attribute.collapseContentDescription = global::CuestionarioDemo.Resource.Attribute.collapseContentDescription;
+			global::com.refractored.Resource.Attribute.collapseIcon = global::CuestionarioDemo.Resource.Attribute.collapseIcon;
+			global::com.refractored.Resource.Attribute.color = global::CuestionarioDemo.Resource.Attribute.color;
+			global::com.refractored.Resource.Attribute.colorAccent = global::CuestionarioDemo.Resource.Attribute.colorAccent;
+			global::com.refractored.Resource.Attribute.colorButtonNormal = global::CuestionarioDemo.Resource.Attribute.colorButtonNormal;
+			global::com.refractored.Resource.Attribute.colorControlActivated = global::CuestionarioDemo.Resource.Attribute.colorControlActivated;
+			global::com.refractored.Resource.Attribute.colorControlHighlight = global::CuestionarioDemo.Resource.Attribute.colorControlHighlight;
+			global::com.refractored.Resource.Attribute.colorControlNormal = global::CuestionarioDemo.Resource.Attribute.colorControlNormal;
+			global::com.refractored.Resource.Attribute.colorPrimary = global::CuestionarioDemo.Resource.Attribute.colorPrimary;
+			global::com.refractored.Resource.Attribute.colorPrimaryDark = global::CuestionarioDemo.Resource.Attribute.colorPrimaryDark;
+			global::com.refractored.Resource.Attribute.colorSwitchThumbNormal = global::CuestionarioDemo.Resource.Attribute.colorSwitchThumbNormal;
+			global::com.refractored.Resource.Attribute.commitIcon = global::CuestionarioDemo.Resource.Attribute.commitIcon;
+			global::com.refractored.Resource.Attribute.contentInsetEnd = global::CuestionarioDemo.Resource.Attribute.contentInsetEnd;
+			global::com.refractored.Resource.Attribute.contentInsetLeft = global::CuestionarioDemo.Resource.Attribute.contentInsetLeft;
+			global::com.refractored.Resource.Attribute.contentInsetRight = global::CuestionarioDemo.Resource.Attribute.contentInsetRight;
+			global::com.refractored.Resource.Attribute.contentInsetStart = global::CuestionarioDemo.Resource.Attribute.contentInsetStart;
+			global::com.refractored.Resource.Attribute.controlBackground = global::CuestionarioDemo.Resource.Attribute.controlBackground;
+			global::com.refractored.Resource.Attribute.customNavigationLayout = global::CuestionarioDemo.Resource.Attribute.customNavigationLayout;
+			global::com.refractored.Resource.Attribute.defaultQueryHint = global::CuestionarioDemo.Resource.Attribute.defaultQueryHint;
+			global::com.refractored.Resource.Attribute.dialogPreferredPadding = global::CuestionarioDemo.Resource.Attribute.dialogPreferredPadding;
+			global::com.refractored.Resource.Attribute.dialogTheme = global::CuestionarioDemo.Resource.Attribute.dialogTheme;
+			global::com.refractored.Resource.Attribute.displayOptions = global::CuestionarioDemo.Resource.Attribute.displayOptions;
+			global::com.refractored.Resource.Attribute.divider = global::CuestionarioDemo.Resource.Attribute.divider;
+			global::com.refractored.Resource.Attribute.dividerHorizontal = global::CuestionarioDemo.Resource.Attribute.dividerHorizontal;
+			global::com.refractored.Resource.Attribute.dividerPadding = global::CuestionarioDemo.Resource.Attribute.dividerPadding;
+			global::com.refractored.Resource.Attribute.dividerVertical = global::CuestionarioDemo.Resource.Attribute.dividerVertical;
+			global::com.refractored.Resource.Attribute.drawableSize = global::CuestionarioDemo.Resource.Attribute.drawableSize;
+			global::com.refractored.Resource.Attribute.drawerArrowStyle = global::CuestionarioDemo.Resource.Attribute.drawerArrowStyle;
+			global::com.refractored.Resource.Attribute.dropDownListViewStyle = global::CuestionarioDemo.Resource.Attribute.dropDownListViewStyle;
+			global::com.refractored.Resource.Attribute.dropdownListPreferredItemHeight = global::CuestionarioDemo.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::com.refractored.Resource.Attribute.editTextBackground = global::CuestionarioDemo.Resource.Attribute.editTextBackground;
+			global::com.refractored.Resource.Attribute.editTextColor = global::CuestionarioDemo.Resource.Attribute.editTextColor;
+			global::com.refractored.Resource.Attribute.editTextStyle = global::CuestionarioDemo.Resource.Attribute.editTextStyle;
+			global::com.refractored.Resource.Attribute.elevation = global::CuestionarioDemo.Resource.Attribute.elevation;
+			global::com.refractored.Resource.Attribute.expandActivityOverflowButtonDrawable = global::CuestionarioDemo.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::com.refractored.Resource.Attribute.gapBetweenBars = global::CuestionarioDemo.Resource.Attribute.gapBetweenBars;
+			global::com.refractored.Resource.Attribute.goIcon = global::CuestionarioDemo.Resource.Attribute.goIcon;
+			global::com.refractored.Resource.Attribute.height = global::CuestionarioDemo.Resource.Attribute.height;
+			global::com.refractored.Resource.Attribute.hideOnContentScroll = global::CuestionarioDemo.Resource.Attribute.hideOnContentScroll;
+			global::com.refractored.Resource.Attribute.homeAsUpIndicator = global::CuestionarioDemo.Resource.Attribute.homeAsUpIndicator;
+			global::com.refractored.Resource.Attribute.homeLayout = global::CuestionarioDemo.Resource.Attribute.homeLayout;
+			global::com.refractored.Resource.Attribute.icon = global::CuestionarioDemo.Resource.Attribute.icon;
+			global::com.refractored.Resource.Attribute.iconifiedByDefault = global::CuestionarioDemo.Resource.Attribute.iconifiedByDefault;
+			global::com.refractored.Resource.Attribute.imageButtonStyle = global::CuestionarioDemo.Resource.Attribute.imageButtonStyle;
+			global::com.refractored.Resource.Attribute.indeterminateProgressStyle = global::CuestionarioDemo.Resource.Attribute.indeterminateProgressStyle;
+			global::com.refractored.Resource.Attribute.initialActivityCount = global::CuestionarioDemo.Resource.Attribute.initialActivityCount;
+			global::com.refractored.Resource.Attribute.isLightTheme = global::CuestionarioDemo.Resource.Attribute.isLightTheme;
+			global::com.refractored.Resource.Attribute.itemPadding = global::CuestionarioDemo.Resource.Attribute.itemPadding;
+			global::com.refractored.Resource.Attribute.layout = global::CuestionarioDemo.Resource.Attribute.layout;
+			global::com.refractored.Resource.Attribute.listChoiceBackgroundIndicator = global::CuestionarioDemo.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::com.refractored.Resource.Attribute.listDividerAlertDialog = global::CuestionarioDemo.Resource.Attribute.listDividerAlertDialog;
+			global::com.refractored.Resource.Attribute.listItemLayout = global::CuestionarioDemo.Resource.Attribute.listItemLayout;
+			global::com.refractored.Resource.Attribute.listLayout = global::CuestionarioDemo.Resource.Attribute.listLayout;
+			global::com.refractored.Resource.Attribute.listPopupWindowStyle = global::CuestionarioDemo.Resource.Attribute.listPopupWindowStyle;
+			global::com.refractored.Resource.Attribute.listPreferredItemHeight = global::CuestionarioDemo.Resource.Attribute.listPreferredItemHeight;
+			global::com.refractored.Resource.Attribute.listPreferredItemHeightLarge = global::CuestionarioDemo.Resource.Attribute.listPreferredItemHeightLarge;
+			global::com.refractored.Resource.Attribute.listPreferredItemHeightSmall = global::CuestionarioDemo.Resource.Attribute.listPreferredItemHeightSmall;
+			global::com.refractored.Resource.Attribute.listPreferredItemPaddingLeft = global::CuestionarioDemo.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::com.refractored.Resource.Attribute.listPreferredItemPaddingRight = global::CuestionarioDemo.Resource.Attribute.listPreferredItemPaddingRight;
+			global::com.refractored.Resource.Attribute.logo = global::CuestionarioDemo.Resource.Attribute.logo;
+			global::com.refractored.Resource.Attribute.logoDescription = global::CuestionarioDemo.Resource.Attribute.logoDescription;
+			global::com.refractored.Resource.Attribute.maxButtonHeight = global::CuestionarioDemo.Resource.Attribute.maxButtonHeight;
+			global::com.refractored.Resource.Attribute.measureWithLargestChild = global::CuestionarioDemo.Resource.Attribute.measureWithLargestChild;
+			global::com.refractored.Resource.Attribute.multiChoiceItemLayout = global::CuestionarioDemo.Resource.Attribute.multiChoiceItemLayout;
+			global::com.refractored.Resource.Attribute.navigationContentDescription = global::CuestionarioDemo.Resource.Attribute.navigationContentDescription;
+			global::com.refractored.Resource.Attribute.navigationIcon = global::CuestionarioDemo.Resource.Attribute.navigationIcon;
+			global::com.refractored.Resource.Attribute.navigationMode = global::CuestionarioDemo.Resource.Attribute.navigationMode;
+			global::com.refractored.Resource.Attribute.overlapAnchor = global::CuestionarioDemo.Resource.Attribute.overlapAnchor;
+			global::com.refractored.Resource.Attribute.paddingEnd = global::CuestionarioDemo.Resource.Attribute.paddingEnd;
+			global::com.refractored.Resource.Attribute.paddingStart = global::CuestionarioDemo.Resource.Attribute.paddingStart;
+			global::com.refractored.Resource.Attribute.panelBackground = global::CuestionarioDemo.Resource.Attribute.panelBackground;
+			global::com.refractored.Resource.Attribute.panelMenuListTheme = global::CuestionarioDemo.Resource.Attribute.panelMenuListTheme;
+			global::com.refractored.Resource.Attribute.panelMenuListWidth = global::CuestionarioDemo.Resource.Attribute.panelMenuListWidth;
+			global::com.refractored.Resource.Attribute.popupMenuStyle = global::CuestionarioDemo.Resource.Attribute.popupMenuStyle;
+			global::com.refractored.Resource.Attribute.popupTheme = global::CuestionarioDemo.Resource.Attribute.popupTheme;
+			global::com.refractored.Resource.Attribute.popupWindowStyle = global::CuestionarioDemo.Resource.Attribute.popupWindowStyle;
+			global::com.refractored.Resource.Attribute.preserveIconSpacing = global::CuestionarioDemo.Resource.Attribute.preserveIconSpacing;
+			global::com.refractored.Resource.Attribute.progressBarPadding = global::CuestionarioDemo.Resource.Attribute.progressBarPadding;
+			global::com.refractored.Resource.Attribute.progressBarStyle = global::CuestionarioDemo.Resource.Attribute.progressBarStyle;
+			global::com.refractored.Resource.Attribute.pstsDividerColor = global::CuestionarioDemo.Resource.Attribute.pstsDividerColor;
+			global::com.refractored.Resource.Attribute.pstsDividerPadding = global::CuestionarioDemo.Resource.Attribute.pstsDividerPadding;
+			global::com.refractored.Resource.Attribute.pstsDividerWidth = global::CuestionarioDemo.Resource.Attribute.pstsDividerWidth;
+			global::com.refractored.Resource.Attribute.pstsIndicatorColor = global::CuestionarioDemo.Resource.Attribute.pstsIndicatorColor;
+			global::com.refractored.Resource.Attribute.pstsIndicatorHeight = global::CuestionarioDemo.Resource.Attribute.pstsIndicatorHeight;
+			global::com.refractored.Resource.Attribute.pstsPaddingMiddle = global::CuestionarioDemo.Resource.Attribute.pstsPaddingMiddle;
+			global::com.refractored.Resource.Attribute.pstsScrollOffset = global::CuestionarioDemo.Resource.Attribute.pstsScrollOffset;
+			global::com.refractored.Resource.Attribute.pstsShouldExpand = global::CuestionarioDemo.Resource.Attribute.pstsShouldExpand;
+			global::com.refractored.Resource.Attribute.pstsTabBackground = global::CuestionarioDemo.Resource.Attribute.pstsTabBackground;
+			global::com.refractored.Resource.Attribute.pstsTabPaddingLeftRight = global::CuestionarioDemo.Resource.Attribute.pstsTabPaddingLeftRight;
+			global::com.refractored.Resource.Attribute.pstsTextAllCaps = global::CuestionarioDemo.Resource.Attribute.pstsTextAllCaps;
+			global::com.refractored.Resource.Attribute.pstsTextAlpha = global::CuestionarioDemo.Resource.Attribute.pstsTextAlpha;
+			global::com.refractored.Resource.Attribute.pstsTextColorSelected = global::CuestionarioDemo.Resource.Attribute.pstsTextColorSelected;
+			global::com.refractored.Resource.Attribute.pstsTextSelectedStyle = global::CuestionarioDemo.Resource.Attribute.pstsTextSelectedStyle;
+			global::com.refractored.Resource.Attribute.pstsTextStyle = global::CuestionarioDemo.Resource.Attribute.pstsTextStyle;
+			global::com.refractored.Resource.Attribute.pstsUnderlineColor = global::CuestionarioDemo.Resource.Attribute.pstsUnderlineColor;
+			global::com.refractored.Resource.Attribute.pstsUnderlineHeight = global::CuestionarioDemo.Resource.Attribute.pstsUnderlineHeight;
+			global::com.refractored.Resource.Attribute.queryBackground = global::CuestionarioDemo.Resource.Attribute.queryBackground;
+			global::com.refractored.Resource.Attribute.queryHint = global::CuestionarioDemo.Resource.Attribute.queryHint;
+			global::com.refractored.Resource.Attribute.radioButtonStyle = global::CuestionarioDemo.Resource.Attribute.radioButtonStyle;
+			global::com.refractored.Resource.Attribute.ratingBarStyle = global::CuestionarioDemo.Resource.Attribute.ratingBarStyle;
+			global::com.refractored.Resource.Attribute.ratingBarStyleIndicator = global::CuestionarioDemo.Resource.Attribute.ratingBarStyleIndicator;
+			global::com.refractored.Resource.Attribute.ratingBarStyleSmall = global::CuestionarioDemo.Resource.Attribute.ratingBarStyleSmall;
+			global::com.refractored.Resource.Attribute.searchHintIcon = global::CuestionarioDemo.Resource.Attribute.searchHintIcon;
+			global::com.refractored.Resource.Attribute.searchIcon = global::CuestionarioDemo.Resource.Attribute.searchIcon;
+			global::com.refractored.Resource.Attribute.searchViewStyle = global::CuestionarioDemo.Resource.Attribute.searchViewStyle;
+			global::com.refractored.Resource.Attribute.seekBarStyle = global::CuestionarioDemo.Resource.Attribute.seekBarStyle;
+			global::com.refractored.Resource.Attribute.selectableItemBackground = global::CuestionarioDemo.Resource.Attribute.selectableItemBackground;
+			global::com.refractored.Resource.Attribute.selectableItemBackgroundBorderless = global::CuestionarioDemo.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::com.refractored.Resource.Attribute.showAsAction = global::CuestionarioDemo.Resource.Attribute.showAsAction;
+			global::com.refractored.Resource.Attribute.showDividers = global::CuestionarioDemo.Resource.Attribute.showDividers;
+			global::com.refractored.Resource.Attribute.showText = global::CuestionarioDemo.Resource.Attribute.showText;
+			global::com.refractored.Resource.Attribute.singleChoiceItemLayout = global::CuestionarioDemo.Resource.Attribute.singleChoiceItemLayout;
+			global::com.refractored.Resource.Attribute.spinBars = global::CuestionarioDemo.Resource.Attribute.spinBars;
+			global::com.refractored.Resource.Attribute.spinnerDropDownItemStyle = global::CuestionarioDemo.Resource.Attribute.spinnerDropDownItemStyle;
+			global::com.refractored.Resource.Attribute.spinnerStyle = global::CuestionarioDemo.Resource.Attribute.spinnerStyle;
+			global::com.refractored.Resource.Attribute.splitTrack = global::CuestionarioDemo.Resource.Attribute.splitTrack;
+			global::com.refractored.Resource.Attribute.srcCompat = global::CuestionarioDemo.Resource.Attribute.srcCompat;
+			global::com.refractored.Resource.Attribute.state_above_anchor = global::CuestionarioDemo.Resource.Attribute.state_above_anchor;
+			global::com.refractored.Resource.Attribute.submitBackground = global::CuestionarioDemo.Resource.Attribute.submitBackground;
+			global::com.refractored.Resource.Attribute.subtitle = global::CuestionarioDemo.Resource.Attribute.subtitle;
+			global::com.refractored.Resource.Attribute.subtitleTextAppearance = global::CuestionarioDemo.Resource.Attribute.subtitleTextAppearance;
+			global::com.refractored.Resource.Attribute.subtitleTextColor = global::CuestionarioDemo.Resource.Attribute.subtitleTextColor;
+			global::com.refractored.Resource.Attribute.subtitleTextStyle = global::CuestionarioDemo.Resource.Attribute.subtitleTextStyle;
+			global::com.refractored.Resource.Attribute.suggestionRowLayout = global::CuestionarioDemo.Resource.Attribute.suggestionRowLayout;
+			global::com.refractored.Resource.Attribute.switchMinWidth = global::CuestionarioDemo.Resource.Attribute.switchMinWidth;
+			global::com.refractored.Resource.Attribute.switchPadding = global::CuestionarioDemo.Resource.Attribute.switchPadding;
+			global::com.refractored.Resource.Attribute.switchStyle = global::CuestionarioDemo.Resource.Attribute.switchStyle;
+			global::com.refractored.Resource.Attribute.switchTextAppearance = global::CuestionarioDemo.Resource.Attribute.switchTextAppearance;
+			global::com.refractored.Resource.Attribute.textAllCaps = global::CuestionarioDemo.Resource.Attribute.textAllCaps;
+			global::com.refractored.Resource.Attribute.textAppearanceLargePopupMenu = global::CuestionarioDemo.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::com.refractored.Resource.Attribute.textAppearanceListItem = global::CuestionarioDemo.Resource.Attribute.textAppearanceListItem;
+			global::com.refractored.Resource.Attribute.textAppearanceListItemSmall = global::CuestionarioDemo.Resource.Attribute.textAppearanceListItemSmall;
+			global::com.refractored.Resource.Attribute.textAppearanceSearchResultSubtitle = global::CuestionarioDemo.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::com.refractored.Resource.Attribute.textAppearanceSearchResultTitle = global::CuestionarioDemo.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::com.refractored.Resource.Attribute.textAppearanceSmallPopupMenu = global::CuestionarioDemo.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::com.refractored.Resource.Attribute.textColorAlertDialogListItem = global::CuestionarioDemo.Resource.Attribute.textColorAlertDialogListItem;
+			global::com.refractored.Resource.Attribute.textColorSearchUrl = global::CuestionarioDemo.Resource.Attribute.textColorSearchUrl;
+			global::com.refractored.Resource.Attribute.theme = global::CuestionarioDemo.Resource.Attribute.theme;
+			global::com.refractored.Resource.Attribute.thickness = global::CuestionarioDemo.Resource.Attribute.thickness;
+			global::com.refractored.Resource.Attribute.thumbTextPadding = global::CuestionarioDemo.Resource.Attribute.thumbTextPadding;
+			global::com.refractored.Resource.Attribute.title = global::CuestionarioDemo.Resource.Attribute.title;
+			global::com.refractored.Resource.Attribute.titleMarginBottom = global::CuestionarioDemo.Resource.Attribute.titleMarginBottom;
+			global::com.refractored.Resource.Attribute.titleMarginEnd = global::CuestionarioDemo.Resource.Attribute.titleMarginEnd;
+			global::com.refractored.Resource.Attribute.titleMarginStart = global::CuestionarioDemo.Resource.Attribute.titleMarginStart;
+			global::com.refractored.Resource.Attribute.titleMarginTop = global::CuestionarioDemo.Resource.Attribute.titleMarginTop;
+			global::com.refractored.Resource.Attribute.titleMargins = global::CuestionarioDemo.Resource.Attribute.titleMargins;
+			global::com.refractored.Resource.Attribute.titleTextAppearance = global::CuestionarioDemo.Resource.Attribute.titleTextAppearance;
+			global::com.refractored.Resource.Attribute.titleTextColor = global::CuestionarioDemo.Resource.Attribute.titleTextColor;
+			global::com.refractored.Resource.Attribute.titleTextStyle = global::CuestionarioDemo.Resource.Attribute.titleTextStyle;
+			global::com.refractored.Resource.Attribute.toolbarNavigationButtonStyle = global::CuestionarioDemo.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::com.refractored.Resource.Attribute.toolbarStyle = global::CuestionarioDemo.Resource.Attribute.toolbarStyle;
+			global::com.refractored.Resource.Attribute.track = global::CuestionarioDemo.Resource.Attribute.track;
+			global::com.refractored.Resource.Attribute.voiceIcon = global::CuestionarioDemo.Resource.Attribute.voiceIcon;
+			global::com.refractored.Resource.Attribute.windowActionBar = global::CuestionarioDemo.Resource.Attribute.windowActionBar;
+			global::com.refractored.Resource.Attribute.windowActionBarOverlay = global::CuestionarioDemo.Resource.Attribute.windowActionBarOverlay;
+			global::com.refractored.Resource.Attribute.windowActionModeOverlay = global::CuestionarioDemo.Resource.Attribute.windowActionModeOverlay;
+			global::com.refractored.Resource.Attribute.windowFixedHeightMajor = global::CuestionarioDemo.Resource.Attribute.windowFixedHeightMajor;
+			global::com.refractored.Resource.Attribute.windowFixedHeightMinor = global::CuestionarioDemo.Resource.Attribute.windowFixedHeightMinor;
+			global::com.refractored.Resource.Attribute.windowFixedWidthMajor = global::CuestionarioDemo.Resource.Attribute.windowFixedWidthMajor;
+			global::com.refractored.Resource.Attribute.windowFixedWidthMinor = global::CuestionarioDemo.Resource.Attribute.windowFixedWidthMinor;
+			global::com.refractored.Resource.Attribute.windowMinWidthMajor = global::CuestionarioDemo.Resource.Attribute.windowMinWidthMajor;
+			global::com.refractored.Resource.Attribute.windowMinWidthMinor = global::CuestionarioDemo.Resource.Attribute.windowMinWidthMinor;
+			global::com.refractored.Resource.Attribute.windowNoTitle = global::CuestionarioDemo.Resource.Attribute.windowNoTitle;
+			global::com.refractored.Resource.Boolean.abc_action_bar_embed_tabs = global::CuestionarioDemo.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::com.refractored.Resource.Boolean.abc_allow_stacked_button_bar = global::CuestionarioDemo.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::com.refractored.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::CuestionarioDemo.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::com.refractored.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::CuestionarioDemo.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::com.refractored.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::CuestionarioDemo.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::com.refractored.Resource.Color.abc_background_cache_hint_selector_material_dark = global::CuestionarioDemo.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::com.refractored.Resource.Color.abc_background_cache_hint_selector_material_light = global::CuestionarioDemo.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::com.refractored.Resource.Color.abc_color_highlight_material = global::CuestionarioDemo.Resource.Color.abc_color_highlight_material;
+			global::com.refractored.Resource.Color.abc_input_method_navigation_guard = global::CuestionarioDemo.Resource.Color.abc_input_method_navigation_guard;
+			global::com.refractored.Resource.Color.abc_primary_text_disable_only_material_dark = global::CuestionarioDemo.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::com.refractored.Resource.Color.abc_primary_text_disable_only_material_light = global::CuestionarioDemo.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::com.refractored.Resource.Color.abc_primary_text_material_dark = global::CuestionarioDemo.Resource.Color.abc_primary_text_material_dark;
+			global::com.refractored.Resource.Color.abc_primary_text_material_light = global::CuestionarioDemo.Resource.Color.abc_primary_text_material_light;
+			global::com.refractored.Resource.Color.abc_search_url_text = global::CuestionarioDemo.Resource.Color.abc_search_url_text;
+			global::com.refractored.Resource.Color.abc_search_url_text_normal = global::CuestionarioDemo.Resource.Color.abc_search_url_text_normal;
+			global::com.refractored.Resource.Color.abc_search_url_text_pressed = global::CuestionarioDemo.Resource.Color.abc_search_url_text_pressed;
+			global::com.refractored.Resource.Color.abc_search_url_text_selected = global::CuestionarioDemo.Resource.Color.abc_search_url_text_selected;
+			global::com.refractored.Resource.Color.abc_secondary_text_material_dark = global::CuestionarioDemo.Resource.Color.abc_secondary_text_material_dark;
+			global::com.refractored.Resource.Color.abc_secondary_text_material_light = global::CuestionarioDemo.Resource.Color.abc_secondary_text_material_light;
+			global::com.refractored.Resource.Color.accent_material_dark = global::CuestionarioDemo.Resource.Color.accent_material_dark;
+			global::com.refractored.Resource.Color.accent_material_light = global::CuestionarioDemo.Resource.Color.accent_material_light;
+			global::com.refractored.Resource.Color.background_floating_material_dark = global::CuestionarioDemo.Resource.Color.background_floating_material_dark;
+			global::com.refractored.Resource.Color.background_floating_material_light = global::CuestionarioDemo.Resource.Color.background_floating_material_light;
+			global::com.refractored.Resource.Color.background_material_dark = global::CuestionarioDemo.Resource.Color.background_material_dark;
+			global::com.refractored.Resource.Color.background_material_light = global::CuestionarioDemo.Resource.Color.background_material_light;
+			global::com.refractored.Resource.Color.bright_foreground_disabled_material_dark = global::CuestionarioDemo.Resource.Color.bright_foreground_disabled_material_dark;
+			global::com.refractored.Resource.Color.bright_foreground_disabled_material_light = global::CuestionarioDemo.Resource.Color.bright_foreground_disabled_material_light;
+			global::com.refractored.Resource.Color.bright_foreground_inverse_material_dark = global::CuestionarioDemo.Resource.Color.bright_foreground_inverse_material_dark;
+			global::com.refractored.Resource.Color.bright_foreground_inverse_material_light = global::CuestionarioDemo.Resource.Color.bright_foreground_inverse_material_light;
+			global::com.refractored.Resource.Color.bright_foreground_material_dark = global::CuestionarioDemo.Resource.Color.bright_foreground_material_dark;
+			global::com.refractored.Resource.Color.bright_foreground_material_light = global::CuestionarioDemo.Resource.Color.bright_foreground_material_light;
+			global::com.refractored.Resource.Color.button_material_dark = global::CuestionarioDemo.Resource.Color.button_material_dark;
+			global::com.refractored.Resource.Color.button_material_light = global::CuestionarioDemo.Resource.Color.button_material_light;
+			global::com.refractored.Resource.Color.dim_foreground_disabled_material_dark = global::CuestionarioDemo.Resource.Color.dim_foreground_disabled_material_dark;
+			global::com.refractored.Resource.Color.dim_foreground_disabled_material_light = global::CuestionarioDemo.Resource.Color.dim_foreground_disabled_material_light;
+			global::com.refractored.Resource.Color.dim_foreground_material_dark = global::CuestionarioDemo.Resource.Color.dim_foreground_material_dark;
+			global::com.refractored.Resource.Color.dim_foreground_material_light = global::CuestionarioDemo.Resource.Color.dim_foreground_material_light;
+			global::com.refractored.Resource.Color.foreground_material_dark = global::CuestionarioDemo.Resource.Color.foreground_material_dark;
+			global::com.refractored.Resource.Color.foreground_material_light = global::CuestionarioDemo.Resource.Color.foreground_material_light;
+			global::com.refractored.Resource.Color.highlighted_text_material_dark = global::CuestionarioDemo.Resource.Color.highlighted_text_material_dark;
+			global::com.refractored.Resource.Color.highlighted_text_material_light = global::CuestionarioDemo.Resource.Color.highlighted_text_material_light;
+			global::com.refractored.Resource.Color.material_blue_grey_800 = global::CuestionarioDemo.Resource.Color.material_blue_grey_800;
+			global::com.refractored.Resource.Color.material_blue_grey_900 = global::CuestionarioDemo.Resource.Color.material_blue_grey_900;
+			global::com.refractored.Resource.Color.material_blue_grey_950 = global::CuestionarioDemo.Resource.Color.material_blue_grey_950;
+			global::com.refractored.Resource.Color.material_deep_teal_200 = global::CuestionarioDemo.Resource.Color.material_deep_teal_200;
+			global::com.refractored.Resource.Color.material_deep_teal_500 = global::CuestionarioDemo.Resource.Color.material_deep_teal_500;
+			global::com.refractored.Resource.Color.material_grey_100 = global::CuestionarioDemo.Resource.Color.material_grey_100;
+			global::com.refractored.Resource.Color.material_grey_300 = global::CuestionarioDemo.Resource.Color.material_grey_300;
+			global::com.refractored.Resource.Color.material_grey_50 = global::CuestionarioDemo.Resource.Color.material_grey_50;
+			global::com.refractored.Resource.Color.material_grey_600 = global::CuestionarioDemo.Resource.Color.material_grey_600;
+			global::com.refractored.Resource.Color.material_grey_800 = global::CuestionarioDemo.Resource.Color.material_grey_800;
+			global::com.refractored.Resource.Color.material_grey_850 = global::CuestionarioDemo.Resource.Color.material_grey_850;
+			global::com.refractored.Resource.Color.material_grey_900 = global::CuestionarioDemo.Resource.Color.material_grey_900;
+			global::com.refractored.Resource.Color.primary_dark_material_dark = global::CuestionarioDemo.Resource.Color.primary_dark_material_dark;
+			global::com.refractored.Resource.Color.primary_dark_material_light = global::CuestionarioDemo.Resource.Color.primary_dark_material_light;
+			global::com.refractored.Resource.Color.primary_material_dark = global::CuestionarioDemo.Resource.Color.primary_material_dark;
+			global::com.refractored.Resource.Color.primary_material_light = global::CuestionarioDemo.Resource.Color.primary_material_light;
+			global::com.refractored.Resource.Color.primary_text_default_material_dark = global::CuestionarioDemo.Resource.Color.primary_text_default_material_dark;
+			global::com.refractored.Resource.Color.primary_text_default_material_light = global::CuestionarioDemo.Resource.Color.primary_text_default_material_light;
+			global::com.refractored.Resource.Color.primary_text_disabled_material_dark = global::CuestionarioDemo.Resource.Color.primary_text_disabled_material_dark;
+			global::com.refractored.Resource.Color.primary_text_disabled_material_light = global::CuestionarioDemo.Resource.Color.primary_text_disabled_material_light;
+			global::com.refractored.Resource.Color.psts_background_tab_pressed = global::CuestionarioDemo.Resource.Color.psts_background_tab_pressed;
+			global::com.refractored.Resource.Color.ripple_material_dark = global::CuestionarioDemo.Resource.Color.ripple_material_dark;
+			global::com.refractored.Resource.Color.ripple_material_light = global::CuestionarioDemo.Resource.Color.ripple_material_light;
+			global::com.refractored.Resource.Color.secondary_text_default_material_dark = global::CuestionarioDemo.Resource.Color.secondary_text_default_material_dark;
+			global::com.refractored.Resource.Color.secondary_text_default_material_light = global::CuestionarioDemo.Resource.Color.secondary_text_default_material_light;
+			global::com.refractored.Resource.Color.secondary_text_disabled_material_dark = global::CuestionarioDemo.Resource.Color.secondary_text_disabled_material_dark;
+			global::com.refractored.Resource.Color.secondary_text_disabled_material_light = global::CuestionarioDemo.Resource.Color.secondary_text_disabled_material_light;
+			global::com.refractored.Resource.Color.switch_thumb_disabled_material_dark = global::CuestionarioDemo.Resource.Color.switch_thumb_disabled_material_dark;
+			global::com.refractored.Resource.Color.switch_thumb_disabled_material_light = global::CuestionarioDemo.Resource.Color.switch_thumb_disabled_material_light;
+			global::com.refractored.Resource.Color.switch_thumb_material_dark = global::CuestionarioDemo.Resource.Color.switch_thumb_material_dark;
+			global::com.refractored.Resource.Color.switch_thumb_material_light = global::CuestionarioDemo.Resource.Color.switch_thumb_material_light;
+			global::com.refractored.Resource.Color.switch_thumb_normal_material_dark = global::CuestionarioDemo.Resource.Color.switch_thumb_normal_material_dark;
+			global::com.refractored.Resource.Color.switch_thumb_normal_material_light = global::CuestionarioDemo.Resource.Color.switch_thumb_normal_material_light;
+			global::com.refractored.Resource.Dimension.abc_action_bar_content_inset_material = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::com.refractored.Resource.Dimension.abc_action_bar_default_height_material = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_default_height_material;
+			global::com.refractored.Resource.Dimension.abc_action_bar_default_padding_end_material = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::com.refractored.Resource.Dimension.abc_action_bar_default_padding_start_material = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::com.refractored.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::com.refractored.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::com.refractored.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::com.refractored.Resource.Dimension.abc_action_bar_progress_bar_size = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::com.refractored.Resource.Dimension.abc_action_bar_stacked_max_height = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::com.refractored.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::com.refractored.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::com.refractored.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::CuestionarioDemo.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::com.refractored.Resource.Dimension.abc_action_button_min_height_material = global::CuestionarioDemo.Resource.Dimension.abc_action_button_min_height_material;
+			global::com.refractored.Resource.Dimension.abc_action_button_min_width_material = global::CuestionarioDemo.Resource.Dimension.abc_action_button_min_width_material;
+			global::com.refractored.Resource.Dimension.abc_action_button_min_width_overflow_material = global::CuestionarioDemo.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::com.refractored.Resource.Dimension.abc_alert_dialog_button_bar_height = global::CuestionarioDemo.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::com.refractored.Resource.Dimension.abc_button_inset_horizontal_material = global::CuestionarioDemo.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::com.refractored.Resource.Dimension.abc_button_inset_vertical_material = global::CuestionarioDemo.Resource.Dimension.abc_button_inset_vertical_material;
+			global::com.refractored.Resource.Dimension.abc_button_padding_horizontal_material = global::CuestionarioDemo.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::com.refractored.Resource.Dimension.abc_button_padding_vertical_material = global::CuestionarioDemo.Resource.Dimension.abc_button_padding_vertical_material;
+			global::com.refractored.Resource.Dimension.abc_config_prefDialogWidth = global::CuestionarioDemo.Resource.Dimension.abc_config_prefDialogWidth;
+			global::com.refractored.Resource.Dimension.abc_control_corner_material = global::CuestionarioDemo.Resource.Dimension.abc_control_corner_material;
+			global::com.refractored.Resource.Dimension.abc_control_inset_material = global::CuestionarioDemo.Resource.Dimension.abc_control_inset_material;
+			global::com.refractored.Resource.Dimension.abc_control_padding_material = global::CuestionarioDemo.Resource.Dimension.abc_control_padding_material;
+			global::com.refractored.Resource.Dimension.abc_dialog_fixed_height_major = global::CuestionarioDemo.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::com.refractored.Resource.Dimension.abc_dialog_fixed_height_minor = global::CuestionarioDemo.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::com.refractored.Resource.Dimension.abc_dialog_fixed_width_major = global::CuestionarioDemo.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::com.refractored.Resource.Dimension.abc_dialog_fixed_width_minor = global::CuestionarioDemo.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::com.refractored.Resource.Dimension.abc_dialog_min_width_major = global::CuestionarioDemo.Resource.Dimension.abc_dialog_min_width_major;
+			global::com.refractored.Resource.Dimension.abc_dialog_min_width_minor = global::CuestionarioDemo.Resource.Dimension.abc_dialog_min_width_minor;
+			global::com.refractored.Resource.Dimension.abc_dialog_padding_material = global::CuestionarioDemo.Resource.Dimension.abc_dialog_padding_material;
+			global::com.refractored.Resource.Dimension.abc_dialog_padding_top_material = global::CuestionarioDemo.Resource.Dimension.abc_dialog_padding_top_material;
+			global::com.refractored.Resource.Dimension.abc_disabled_alpha_material_dark = global::CuestionarioDemo.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::com.refractored.Resource.Dimension.abc_disabled_alpha_material_light = global::CuestionarioDemo.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::com.refractored.Resource.Dimension.abc_dropdownitem_icon_width = global::CuestionarioDemo.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::com.refractored.Resource.Dimension.abc_dropdownitem_text_padding_left = global::CuestionarioDemo.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::com.refractored.Resource.Dimension.abc_dropdownitem_text_padding_right = global::CuestionarioDemo.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::com.refractored.Resource.Dimension.abc_edit_text_inset_bottom_material = global::CuestionarioDemo.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::com.refractored.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::CuestionarioDemo.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::com.refractored.Resource.Dimension.abc_edit_text_inset_top_material = global::CuestionarioDemo.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::com.refractored.Resource.Dimension.abc_floating_window_z = global::CuestionarioDemo.Resource.Dimension.abc_floating_window_z;
+			global::com.refractored.Resource.Dimension.abc_list_item_padding_horizontal_material = global::CuestionarioDemo.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::com.refractored.Resource.Dimension.abc_panel_menu_list_width = global::CuestionarioDemo.Resource.Dimension.abc_panel_menu_list_width;
+			global::com.refractored.Resource.Dimension.abc_search_view_preferred_width = global::CuestionarioDemo.Resource.Dimension.abc_search_view_preferred_width;
+			global::com.refractored.Resource.Dimension.abc_seekbar_track_background_height_material = global::CuestionarioDemo.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::com.refractored.Resource.Dimension.abc_seekbar_track_progress_height_material = global::CuestionarioDemo.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::com.refractored.Resource.Dimension.abc_select_dialog_padding_start_material = global::CuestionarioDemo.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::com.refractored.Resource.Dimension.abc_switch_padding = global::CuestionarioDemo.Resource.Dimension.abc_switch_padding;
+			global::com.refractored.Resource.Dimension.abc_text_size_body_1_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_body_1_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_body_2_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_body_2_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_button_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_button_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_caption_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_caption_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_display_1_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_display_1_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_display_2_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_display_2_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_display_3_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_display_3_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_display_4_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_display_4_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_headline_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_headline_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_large_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_large_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_medium_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_medium_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_menu_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_menu_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_small_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_small_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_subhead_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_subhead_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::CuestionarioDemo.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::com.refractored.Resource.Dimension.abc_text_size_title_material = global::CuestionarioDemo.Resource.Dimension.abc_text_size_title_material;
+			global::com.refractored.Resource.Dimension.abc_text_size_title_material_toolbar = global::CuestionarioDemo.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::com.refractored.Resource.Dimension.disabled_alpha_material_dark = global::CuestionarioDemo.Resource.Dimension.disabled_alpha_material_dark;
+			global::com.refractored.Resource.Dimension.disabled_alpha_material_light = global::CuestionarioDemo.Resource.Dimension.disabled_alpha_material_light;
+			global::com.refractored.Resource.Dimension.highlight_alpha_material_colored = global::CuestionarioDemo.Resource.Dimension.highlight_alpha_material_colored;
+			global::com.refractored.Resource.Dimension.highlight_alpha_material_dark = global::CuestionarioDemo.Resource.Dimension.highlight_alpha_material_dark;
+			global::com.refractored.Resource.Dimension.highlight_alpha_material_light = global::CuestionarioDemo.Resource.Dimension.highlight_alpha_material_light;
+			global::com.refractored.Resource.Dimension.notification_large_icon_height = global::CuestionarioDemo.Resource.Dimension.notification_large_icon_height;
+			global::com.refractored.Resource.Dimension.notification_large_icon_width = global::CuestionarioDemo.Resource.Dimension.notification_large_icon_width;
+			global::com.refractored.Resource.Dimension.notification_subtext_size = global::CuestionarioDemo.Resource.Dimension.notification_subtext_size;
+			global::com.refractored.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_action_bar_item_background_material = global::CuestionarioDemo.Resource.Drawable.abc_action_bar_item_background_material;
+			global::com.refractored.Resource.Drawable.abc_btn_borderless_material = global::CuestionarioDemo.Resource.Drawable.abc_btn_borderless_material;
+			global::com.refractored.Resource.Drawable.abc_btn_check_material = global::CuestionarioDemo.Resource.Drawable.abc_btn_check_material;
+			global::com.refractored.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::CuestionarioDemo.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::com.refractored.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::CuestionarioDemo.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::com.refractored.Resource.Drawable.abc_btn_colored_material = global::CuestionarioDemo.Resource.Drawable.abc_btn_colored_material;
+			global::com.refractored.Resource.Drawable.abc_btn_default_mtrl_shape = global::CuestionarioDemo.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::com.refractored.Resource.Drawable.abc_btn_radio_material = global::CuestionarioDemo.Resource.Drawable.abc_btn_radio_material;
+			global::com.refractored.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::CuestionarioDemo.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::com.refractored.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::CuestionarioDemo.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::com.refractored.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::CuestionarioDemo.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::com.refractored.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::CuestionarioDemo.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::com.refractored.Resource.Drawable.abc_cab_background_internal_bg = global::CuestionarioDemo.Resource.Drawable.abc_cab_background_internal_bg;
+			global::com.refractored.Resource.Drawable.abc_cab_background_top_material = global::CuestionarioDemo.Resource.Drawable.abc_cab_background_top_material;
+			global::com.refractored.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_control_background_material = global::CuestionarioDemo.Resource.Drawable.abc_control_background_material;
+			global::com.refractored.Resource.Drawable.abc_edit_text_material = global::CuestionarioDemo.Resource.Drawable.abc_edit_text_material;
+			global::com.refractored.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::CuestionarioDemo.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::com.refractored.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::CuestionarioDemo.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::com.refractored.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_ic_star_black_16dp = global::CuestionarioDemo.Resource.Drawable.abc_ic_star_black_16dp;
+			global::com.refractored.Resource.Drawable.abc_ic_star_black_36dp = global::CuestionarioDemo.Resource.Drawable.abc_ic_star_black_36dp;
+			global::com.refractored.Resource.Drawable.abc_ic_star_half_black_16dp = global::CuestionarioDemo.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::com.refractored.Resource.Drawable.abc_ic_star_half_black_36dp = global::CuestionarioDemo.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::com.refractored.Resource.Drawable.abc_item_background_holo_dark = global::CuestionarioDemo.Resource.Drawable.abc_item_background_holo_dark;
+			global::com.refractored.Resource.Drawable.abc_item_background_holo_light = global::CuestionarioDemo.Resource.Drawable.abc_item_background_holo_light;
+			global::com.refractored.Resource.Drawable.abc_list_divider_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_list_focused_holo = global::CuestionarioDemo.Resource.Drawable.abc_list_focused_holo;
+			global::com.refractored.Resource.Drawable.abc_list_longpressed_holo = global::CuestionarioDemo.Resource.Drawable.abc_list_longpressed_holo;
+			global::com.refractored.Resource.Drawable.abc_list_pressed_holo_dark = global::CuestionarioDemo.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::com.refractored.Resource.Drawable.abc_list_pressed_holo_light = global::CuestionarioDemo.Resource.Drawable.abc_list_pressed_holo_light;
+			global::com.refractored.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::CuestionarioDemo.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::com.refractored.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::CuestionarioDemo.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::com.refractored.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::CuestionarioDemo.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::com.refractored.Resource.Drawable.abc_list_selector_disabled_holo_light = global::CuestionarioDemo.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::com.refractored.Resource.Drawable.abc_list_selector_holo_dark = global::CuestionarioDemo.Resource.Drawable.abc_list_selector_holo_dark;
+			global::com.refractored.Resource.Drawable.abc_list_selector_holo_light = global::CuestionarioDemo.Resource.Drawable.abc_list_selector_holo_light;
+			global::com.refractored.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::CuestionarioDemo.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::com.refractored.Resource.Drawable.abc_popup_background_mtrl_mult = global::CuestionarioDemo.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::com.refractored.Resource.Drawable.abc_ratingbar_indicator_material = global::CuestionarioDemo.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::com.refractored.Resource.Drawable.abc_ratingbar_small_material = global::CuestionarioDemo.Resource.Drawable.abc_ratingbar_small_material;
+			global::com.refractored.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::CuestionarioDemo.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::com.refractored.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::CuestionarioDemo.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::com.refractored.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_seekbar_thumb_material = global::CuestionarioDemo.Resource.Drawable.abc_seekbar_thumb_material;
+			global::com.refractored.Resource.Drawable.abc_seekbar_track_material = global::CuestionarioDemo.Resource.Drawable.abc_seekbar_track_material;
+			global::com.refractored.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::CuestionarioDemo.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::com.refractored.Resource.Drawable.abc_spinner_textfield_background_material = global::CuestionarioDemo.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::com.refractored.Resource.Drawable.abc_switch_thumb_material = global::CuestionarioDemo.Resource.Drawable.abc_switch_thumb_material;
+			global::com.refractored.Resource.Drawable.abc_switch_track_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_tab_indicator_material = global::CuestionarioDemo.Resource.Drawable.abc_tab_indicator_material;
+			global::com.refractored.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_text_cursor_material = global::CuestionarioDemo.Resource.Drawable.abc_text_cursor_material;
+			global::com.refractored.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CuestionarioDemo.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::com.refractored.Resource.Drawable.abc_textfield_search_material = global::CuestionarioDemo.Resource.Drawable.abc_textfield_search_material;
+			global::com.refractored.Resource.Drawable.notification_template_icon_bg = global::CuestionarioDemo.Resource.Drawable.notification_template_icon_bg;
+			global::com.refractored.Resource.Drawable.psts_background_tab = global::CuestionarioDemo.Resource.Drawable.psts_background_tab;
+			global::com.refractored.Resource.Id.action0 = global::CuestionarioDemo.Resource.Id.action0;
+			global::com.refractored.Resource.Id.action_bar = global::CuestionarioDemo.Resource.Id.action_bar;
+			global::com.refractored.Resource.Id.action_bar_activity_content = global::CuestionarioDemo.Resource.Id.action_bar_activity_content;
+			global::com.refractored.Resource.Id.action_bar_container = global::CuestionarioDemo.Resource.Id.action_bar_container;
+			global::com.refractored.Resource.Id.action_bar_root = global::CuestionarioDemo.Resource.Id.action_bar_root;
+			global::com.refractored.Resource.Id.action_bar_spinner = global::CuestionarioDemo.Resource.Id.action_bar_spinner;
+			global::com.refractored.Resource.Id.action_bar_subtitle = global::CuestionarioDemo.Resource.Id.action_bar_subtitle;
+			global::com.refractored.Resource.Id.action_bar_title = global::CuestionarioDemo.Resource.Id.action_bar_title;
+			global::com.refractored.Resource.Id.action_context_bar = global::CuestionarioDemo.Resource.Id.action_context_bar;
+			global::com.refractored.Resource.Id.action_divider = global::CuestionarioDemo.Resource.Id.action_divider;
+			global::com.refractored.Resource.Id.action_menu_divider = global::CuestionarioDemo.Resource.Id.action_menu_divider;
+			global::com.refractored.Resource.Id.action_menu_presenter = global::CuestionarioDemo.Resource.Id.action_menu_presenter;
+			global::com.refractored.Resource.Id.action_mode_bar = global::CuestionarioDemo.Resource.Id.action_mode_bar;
+			global::com.refractored.Resource.Id.action_mode_bar_stub = global::CuestionarioDemo.Resource.Id.action_mode_bar_stub;
+			global::com.refractored.Resource.Id.action_mode_close_button = global::CuestionarioDemo.Resource.Id.action_mode_close_button;
+			global::com.refractored.Resource.Id.activity_chooser_view_content = global::CuestionarioDemo.Resource.Id.activity_chooser_view_content;
+			global::com.refractored.Resource.Id.alertTitle = global::CuestionarioDemo.Resource.Id.alertTitle;
+			global::com.refractored.Resource.Id.always = global::CuestionarioDemo.Resource.Id.always;
+			global::com.refractored.Resource.Id.beginning = global::CuestionarioDemo.Resource.Id.beginning;
+			global::com.refractored.Resource.Id.bold = global::CuestionarioDemo.Resource.Id.bold;
+			global::com.refractored.Resource.Id.buttonPanel = global::CuestionarioDemo.Resource.Id.buttonPanel;
+			global::com.refractored.Resource.Id.cancel_action = global::CuestionarioDemo.Resource.Id.cancel_action;
+			global::com.refractored.Resource.Id.checkbox = global::CuestionarioDemo.Resource.Id.checkbox;
+			global::com.refractored.Resource.Id.chronometer = global::CuestionarioDemo.Resource.Id.chronometer;
+			global::com.refractored.Resource.Id.collapseActionView = global::CuestionarioDemo.Resource.Id.collapseActionView;
+			global::com.refractored.Resource.Id.contentPanel = global::CuestionarioDemo.Resource.Id.contentPanel;
+			global::com.refractored.Resource.Id.custom = global::CuestionarioDemo.Resource.Id.custom;
+			global::com.refractored.Resource.Id.customPanel = global::CuestionarioDemo.Resource.Id.customPanel;
+			global::com.refractored.Resource.Id.decor_content_parent = global::CuestionarioDemo.Resource.Id.decor_content_parent;
+			global::com.refractored.Resource.Id.default_activity_button = global::CuestionarioDemo.Resource.Id.default_activity_button;
+			global::com.refractored.Resource.Id.disableHome = global::CuestionarioDemo.Resource.Id.disableHome;
+			global::com.refractored.Resource.Id.edit_query = global::CuestionarioDemo.Resource.Id.edit_query;
+			global::com.refractored.Resource.Id.end = global::CuestionarioDemo.Resource.Id.end;
+			global::com.refractored.Resource.Id.end_padder = global::CuestionarioDemo.Resource.Id.end_padder;
+			global::com.refractored.Resource.Id.expand_activities_button = global::CuestionarioDemo.Resource.Id.expand_activities_button;
+			global::com.refractored.Resource.Id.expanded_menu = global::CuestionarioDemo.Resource.Id.expanded_menu;
+			global::com.refractored.Resource.Id.home = global::CuestionarioDemo.Resource.Id.home;
+			global::com.refractored.Resource.Id.homeAsUp = global::CuestionarioDemo.Resource.Id.homeAsUp;
+			global::com.refractored.Resource.Id.icon = global::CuestionarioDemo.Resource.Id.icon;
+			global::com.refractored.Resource.Id.ifRoom = global::CuestionarioDemo.Resource.Id.ifRoom;
+			global::com.refractored.Resource.Id.image = global::CuestionarioDemo.Resource.Id.image;
+			global::com.refractored.Resource.Id.info = global::CuestionarioDemo.Resource.Id.info;
+			global::com.refractored.Resource.Id.italic = global::CuestionarioDemo.Resource.Id.italic;
+			global::com.refractored.Resource.Id.line1 = global::CuestionarioDemo.Resource.Id.line1;
+			global::com.refractored.Resource.Id.line3 = global::CuestionarioDemo.Resource.Id.line3;
+			global::com.refractored.Resource.Id.listMode = global::CuestionarioDemo.Resource.Id.listMode;
+			global::com.refractored.Resource.Id.list_item = global::CuestionarioDemo.Resource.Id.list_item;
+			global::com.refractored.Resource.Id.media_actions = global::CuestionarioDemo.Resource.Id.media_actions;
+			global::com.refractored.Resource.Id.middle = global::CuestionarioDemo.Resource.Id.middle;
+			global::com.refractored.Resource.Id.multiply = global::CuestionarioDemo.Resource.Id.multiply;
+			global::com.refractored.Resource.Id.never = global::CuestionarioDemo.Resource.Id.never;
+			global::com.refractored.Resource.Id.none = global::CuestionarioDemo.Resource.Id.none;
+			global::com.refractored.Resource.Id.normal = global::CuestionarioDemo.Resource.Id.normal;
+			global::com.refractored.Resource.Id.parentPanel = global::CuestionarioDemo.Resource.Id.parentPanel;
+			global::com.refractored.Resource.Id.progress_circular = global::CuestionarioDemo.Resource.Id.progress_circular;
+			global::com.refractored.Resource.Id.progress_horizontal = global::CuestionarioDemo.Resource.Id.progress_horizontal;
+			global::com.refractored.Resource.Id.psts_tab_title = global::CuestionarioDemo.Resource.Id.psts_tab_title;
+			global::com.refractored.Resource.Id.radio = global::CuestionarioDemo.Resource.Id.radio;
+			global::com.refractored.Resource.Id.screen = global::CuestionarioDemo.Resource.Id.screen;
+			global::com.refractored.Resource.Id.scrollIndicatorDown = global::CuestionarioDemo.Resource.Id.scrollIndicatorDown;
+			global::com.refractored.Resource.Id.scrollIndicatorUp = global::CuestionarioDemo.Resource.Id.scrollIndicatorUp;
+			global::com.refractored.Resource.Id.scrollView = global::CuestionarioDemo.Resource.Id.scrollView;
+			global::com.refractored.Resource.Id.search_badge = global::CuestionarioDemo.Resource.Id.search_badge;
+			global::com.refractored.Resource.Id.search_bar = global::CuestionarioDemo.Resource.Id.search_bar;
+			global::com.refractored.Resource.Id.search_button = global::CuestionarioDemo.Resource.Id.search_button;
+			global::com.refractored.Resource.Id.search_close_btn = global::CuestionarioDemo.Resource.Id.search_close_btn;
+			global::com.refractored.Resource.Id.search_edit_frame = global::CuestionarioDemo.Resource.Id.search_edit_frame;
+			global::com.refractored.Resource.Id.search_go_btn = global::CuestionarioDemo.Resource.Id.search_go_btn;
+			global::com.refractored.Resource.Id.search_mag_icon = global::CuestionarioDemo.Resource.Id.search_mag_icon;
+			global::com.refractored.Resource.Id.search_plate = global::CuestionarioDemo.Resource.Id.search_plate;
+			global::com.refractored.Resource.Id.search_src_text = global::CuestionarioDemo.Resource.Id.search_src_text;
+			global::com.refractored.Resource.Id.search_voice_btn = global::CuestionarioDemo.Resource.Id.search_voice_btn;
+			global::com.refractored.Resource.Id.select_dialog_listview = global::CuestionarioDemo.Resource.Id.select_dialog_listview;
+			global::com.refractored.Resource.Id.shortcut = global::CuestionarioDemo.Resource.Id.shortcut;
+			global::com.refractored.Resource.Id.showCustom = global::CuestionarioDemo.Resource.Id.showCustom;
+			global::com.refractored.Resource.Id.showHome = global::CuestionarioDemo.Resource.Id.showHome;
+			global::com.refractored.Resource.Id.showTitle = global::CuestionarioDemo.Resource.Id.showTitle;
+			global::com.refractored.Resource.Id.spacer = global::CuestionarioDemo.Resource.Id.spacer;
+			global::com.refractored.Resource.Id.split_action_bar = global::CuestionarioDemo.Resource.Id.split_action_bar;
+			global::com.refractored.Resource.Id.src_atop = global::CuestionarioDemo.Resource.Id.src_atop;
+			global::com.refractored.Resource.Id.src_in = global::CuestionarioDemo.Resource.Id.src_in;
+			global::com.refractored.Resource.Id.src_over = global::CuestionarioDemo.Resource.Id.src_over;
+			global::com.refractored.Resource.Id.status_bar_latest_event_content = global::CuestionarioDemo.Resource.Id.status_bar_latest_event_content;
+			global::com.refractored.Resource.Id.submit_area = global::CuestionarioDemo.Resource.Id.submit_area;
+			global::com.refractored.Resource.Id.tabMode = global::CuestionarioDemo.Resource.Id.tabMode;
+			global::com.refractored.Resource.Id.text = global::CuestionarioDemo.Resource.Id.text;
+			global::com.refractored.Resource.Id.text2 = global::CuestionarioDemo.Resource.Id.text2;
+			global::com.refractored.Resource.Id.textSpacerNoButtons = global::CuestionarioDemo.Resource.Id.textSpacerNoButtons;
+			global::com.refractored.Resource.Id.time = global::CuestionarioDemo.Resource.Id.time;
+			global::com.refractored.Resource.Id.title = global::CuestionarioDemo.Resource.Id.title;
+			global::com.refractored.Resource.Id.title_template = global::CuestionarioDemo.Resource.Id.title_template;
+			global::com.refractored.Resource.Id.topPanel = global::CuestionarioDemo.Resource.Id.topPanel;
+			global::com.refractored.Resource.Id.up = global::CuestionarioDemo.Resource.Id.up;
+			global::com.refractored.Resource.Id.useLogo = global::CuestionarioDemo.Resource.Id.useLogo;
+			global::com.refractored.Resource.Id.withText = global::CuestionarioDemo.Resource.Id.withText;
+			global::com.refractored.Resource.Id.wrap_content = global::CuestionarioDemo.Resource.Id.wrap_content;
+			global::com.refractored.Resource.Integer.abc_config_activityDefaultDur = global::CuestionarioDemo.Resource.Integer.abc_config_activityDefaultDur;
+			global::com.refractored.Resource.Integer.abc_config_activityShortDur = global::CuestionarioDemo.Resource.Integer.abc_config_activityShortDur;
+			global::com.refractored.Resource.Integer.cancel_button_image_alpha = global::CuestionarioDemo.Resource.Integer.cancel_button_image_alpha;
+			global::com.refractored.Resource.Integer.status_bar_notification_info_maxnum = global::CuestionarioDemo.Resource.Integer.status_bar_notification_info_maxnum;
+			global::com.refractored.Resource.Layout.abc_action_bar_title_item = global::CuestionarioDemo.Resource.Layout.abc_action_bar_title_item;
+			global::com.refractored.Resource.Layout.abc_action_bar_up_container = global::CuestionarioDemo.Resource.Layout.abc_action_bar_up_container;
+			global::com.refractored.Resource.Layout.abc_action_menu_item_layout = global::CuestionarioDemo.Resource.Layout.abc_action_menu_item_layout;
+			global::com.refractored.Resource.Layout.abc_action_menu_layout = global::CuestionarioDemo.Resource.Layout.abc_action_menu_layout;
+			global::com.refractored.Resource.Layout.abc_action_mode_bar = global::CuestionarioDemo.Resource.Layout.abc_action_mode_bar;
+			global::com.refractored.Resource.Layout.abc_action_mode_close_item_material = global::CuestionarioDemo.Resource.Layout.abc_action_mode_close_item_material;
+			global::com.refractored.Resource.Layout.abc_activity_chooser_view = global::CuestionarioDemo.Resource.Layout.abc_activity_chooser_view;
+			global::com.refractored.Resource.Layout.abc_activity_chooser_view_list_item = global::CuestionarioDemo.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::com.refractored.Resource.Layout.abc_alert_dialog_button_bar_material = global::CuestionarioDemo.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::com.refractored.Resource.Layout.abc_alert_dialog_material = global::CuestionarioDemo.Resource.Layout.abc_alert_dialog_material;
+			global::com.refractored.Resource.Layout.abc_dialog_title_material = global::CuestionarioDemo.Resource.Layout.abc_dialog_title_material;
+			global::com.refractored.Resource.Layout.abc_expanded_menu_layout = global::CuestionarioDemo.Resource.Layout.abc_expanded_menu_layout;
+			global::com.refractored.Resource.Layout.abc_list_menu_item_checkbox = global::CuestionarioDemo.Resource.Layout.abc_list_menu_item_checkbox;
+			global::com.refractored.Resource.Layout.abc_list_menu_item_icon = global::CuestionarioDemo.Resource.Layout.abc_list_menu_item_icon;
+			global::com.refractored.Resource.Layout.abc_list_menu_item_layout = global::CuestionarioDemo.Resource.Layout.abc_list_menu_item_layout;
+			global::com.refractored.Resource.Layout.abc_list_menu_item_radio = global::CuestionarioDemo.Resource.Layout.abc_list_menu_item_radio;
+			global::com.refractored.Resource.Layout.abc_popup_menu_item_layout = global::CuestionarioDemo.Resource.Layout.abc_popup_menu_item_layout;
+			global::com.refractored.Resource.Layout.abc_screen_content_include = global::CuestionarioDemo.Resource.Layout.abc_screen_content_include;
+			global::com.refractored.Resource.Layout.abc_screen_simple = global::CuestionarioDemo.Resource.Layout.abc_screen_simple;
+			global::com.refractored.Resource.Layout.abc_screen_simple_overlay_action_mode = global::CuestionarioDemo.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::com.refractored.Resource.Layout.abc_screen_toolbar = global::CuestionarioDemo.Resource.Layout.abc_screen_toolbar;
+			global::com.refractored.Resource.Layout.abc_search_dropdown_item_icons_2line = global::CuestionarioDemo.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::com.refractored.Resource.Layout.abc_search_view = global::CuestionarioDemo.Resource.Layout.abc_search_view;
+			global::com.refractored.Resource.Layout.abc_select_dialog_material = global::CuestionarioDemo.Resource.Layout.abc_select_dialog_material;
+			global::com.refractored.Resource.Layout.notification_media_action = global::CuestionarioDemo.Resource.Layout.notification_media_action;
+			global::com.refractored.Resource.Layout.notification_media_cancel_action = global::CuestionarioDemo.Resource.Layout.notification_media_cancel_action;
+			global::com.refractored.Resource.Layout.notification_template_big_media = global::CuestionarioDemo.Resource.Layout.notification_template_big_media;
+			global::com.refractored.Resource.Layout.notification_template_big_media_narrow = global::CuestionarioDemo.Resource.Layout.notification_template_big_media_narrow;
+			global::com.refractored.Resource.Layout.notification_template_media = global::CuestionarioDemo.Resource.Layout.notification_template_media;
+			global::com.refractored.Resource.Layout.notification_template_part_chronometer = global::CuestionarioDemo.Resource.Layout.notification_template_part_chronometer;
+			global::com.refractored.Resource.Layout.notification_template_part_time = global::CuestionarioDemo.Resource.Layout.notification_template_part_time;
+			global::com.refractored.Resource.Layout.psts_tab = global::CuestionarioDemo.Resource.Layout.psts_tab;
+			global::com.refractored.Resource.Layout.select_dialog_item_material = global::CuestionarioDemo.Resource.Layout.select_dialog_item_material;
+			global::com.refractored.Resource.Layout.select_dialog_multichoice_material = global::CuestionarioDemo.Resource.Layout.select_dialog_multichoice_material;
+			global::com.refractored.Resource.Layout.select_dialog_singlechoice_material = global::CuestionarioDemo.Resource.Layout.select_dialog_singlechoice_material;
+			global::com.refractored.Resource.Layout.support_simple_spinner_dropdown_item = global::CuestionarioDemo.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::com.refractored.Resource.String.abc_action_bar_home_description = global::CuestionarioDemo.Resource.String.abc_action_bar_home_description;
+			global::com.refractored.Resource.String.abc_action_bar_up_description = global::CuestionarioDemo.Resource.String.abc_action_bar_up_description;
+			global::com.refractored.Resource.String.abc_action_menu_overflow_description = global::CuestionarioDemo.Resource.String.abc_action_menu_overflow_description;
+			global::com.refractored.Resource.String.abc_action_mode_done = global::CuestionarioDemo.Resource.String.abc_action_mode_done;
+			global::com.refractored.Resource.String.abc_activity_chooser_view_see_all = global::CuestionarioDemo.Resource.String.abc_activity_chooser_view_see_all;
+			global::com.refractored.Resource.String.abc_activitychooserview_choose_application = global::CuestionarioDemo.Resource.String.abc_activitychooserview_choose_application;
+			global::com.refractored.Resource.String.abc_capital_off = global::CuestionarioDemo.Resource.String.abc_capital_off;
+			global::com.refractored.Resource.String.abc_capital_on = global::CuestionarioDemo.Resource.String.abc_capital_on;
+			global::com.refractored.Resource.String.abc_search_hint = global::CuestionarioDemo.Resource.String.abc_search_hint;
+			global::com.refractored.Resource.String.abc_searchview_description_clear = global::CuestionarioDemo.Resource.String.abc_searchview_description_clear;
+			global::com.refractored.Resource.String.abc_searchview_description_query = global::CuestionarioDemo.Resource.String.abc_searchview_description_query;
+			global::com.refractored.Resource.String.abc_searchview_description_search = global::CuestionarioDemo.Resource.String.abc_searchview_description_search;
+			global::com.refractored.Resource.String.abc_searchview_description_submit = global::CuestionarioDemo.Resource.String.abc_searchview_description_submit;
+			global::com.refractored.Resource.String.abc_searchview_description_voice = global::CuestionarioDemo.Resource.String.abc_searchview_description_voice;
+			global::com.refractored.Resource.String.abc_shareactionprovider_share_with = global::CuestionarioDemo.Resource.String.abc_shareactionprovider_share_with;
+			global::com.refractored.Resource.String.abc_shareactionprovider_share_with_application = global::CuestionarioDemo.Resource.String.abc_shareactionprovider_share_with_application;
+			global::com.refractored.Resource.String.abc_toolbar_collapse_description = global::CuestionarioDemo.Resource.String.abc_toolbar_collapse_description;
+			global::com.refractored.Resource.String.status_bar_notification_info_overflow = global::CuestionarioDemo.Resource.String.status_bar_notification_info_overflow;
+			global::com.refractored.Resource.Style.AlertDialog_AppCompat = global::CuestionarioDemo.Resource.Style.AlertDialog_AppCompat;
+			global::com.refractored.Resource.Style.AlertDialog_AppCompat_Light = global::CuestionarioDemo.Resource.Style.AlertDialog_AppCompat_Light;
+			global::com.refractored.Resource.Style.Animation_AppCompat_Dialog = global::CuestionarioDemo.Resource.Style.Animation_AppCompat_Dialog;
+			global::com.refractored.Resource.Style.Animation_AppCompat_DropDownUp = global::CuestionarioDemo.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::com.refractored.Resource.Style.Base_AlertDialog_AppCompat = global::CuestionarioDemo.Resource.Style.Base_AlertDialog_AppCompat;
+			global::com.refractored.Resource.Style.Base_AlertDialog_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::com.refractored.Resource.Style.Base_Animation_AppCompat_Dialog = global::CuestionarioDemo.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::com.refractored.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::CuestionarioDemo.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::com.refractored.Resource.Style.Base_DialogWindowTitle_AppCompat = global::CuestionarioDemo.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::com.refractored.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CuestionarioDemo.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Button = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Large = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Small = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Title = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::com.refractored.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::com.refractored.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::com.refractored.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::com.refractored.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::CuestionarioDemo.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Dialog = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Light;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::com.refractored.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CuestionarioDemo.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::com.refractored.Resource.Style.Base_ThemeOverlay_AppCompat = global::CuestionarioDemo.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::com.refractored.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::CuestionarioDemo.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::com.refractored.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::CuestionarioDemo.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::com.refractored.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::CuestionarioDemo.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::com.refractored.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::com.refractored.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::CuestionarioDemo.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::com.refractored.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::CuestionarioDemo.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::com.refractored.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::CuestionarioDemo.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::com.refractored.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::CuestionarioDemo.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::com.refractored.Resource.Style.Base_V21_Theme_AppCompat = global::CuestionarioDemo.Resource.Style.Base_V21_Theme_AppCompat;
+			global::com.refractored.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::CuestionarioDemo.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::com.refractored.Resource.Style.Base_V21_Theme_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::com.refractored.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::CuestionarioDemo.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::com.refractored.Resource.Style.Base_V22_Theme_AppCompat = global::CuestionarioDemo.Resource.Style.Base_V22_Theme_AppCompat;
+			global::com.refractored.Resource.Style.Base_V22_Theme_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::com.refractored.Resource.Style.Base_V23_Theme_AppCompat = global::CuestionarioDemo.Resource.Style.Base_V23_Theme_AppCompat;
+			global::com.refractored.Resource.Style.Base_V23_Theme_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::com.refractored.Resource.Style.Base_V7_Theme_AppCompat = global::CuestionarioDemo.Resource.Style.Base_V7_Theme_AppCompat;
+			global::com.refractored.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::CuestionarioDemo.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::com.refractored.Resource.Style.Base_V7_Theme_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::com.refractored.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::CuestionarioDemo.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::com.refractored.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::CuestionarioDemo.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::com.refractored.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::CuestionarioDemo.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActionBar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActionButton = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActionMode = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Button = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Button;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Button_Small = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_EditText = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ImageButton = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ListView = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_RatingBar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_SearchView = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_SeekBar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Spinner = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Toolbar = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::com.refractored.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::CuestionarioDemo.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::com.refractored.Resource.Style.Platform_AppCompat = global::CuestionarioDemo.Resource.Style.Platform_AppCompat;
+			global::com.refractored.Resource.Style.Platform_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Platform_AppCompat_Light;
+			global::com.refractored.Resource.Style.Platform_ThemeOverlay_AppCompat = global::CuestionarioDemo.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::com.refractored.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::CuestionarioDemo.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::com.refractored.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::com.refractored.Resource.Style.Platform_V11_AppCompat = global::CuestionarioDemo.Resource.Style.Platform_V11_AppCompat;
+			global::com.refractored.Resource.Style.Platform_V11_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Platform_V11_AppCompat_Light;
+			global::com.refractored.Resource.Style.Platform_V14_AppCompat = global::CuestionarioDemo.Resource.Style.Platform_V14_AppCompat;
+			global::com.refractored.Resource.Style.Platform_V14_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Platform_V14_AppCompat_Light;
+			global::com.refractored.Resource.Style.Platform_Widget_AppCompat_Spinner = global::CuestionarioDemo.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::com.refractored.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::CuestionarioDemo.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::com.refractored.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CuestionarioDemo.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::com.refractored.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::CuestionarioDemo.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::com.refractored.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::CuestionarioDemo.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Body1 = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Body2 = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Button = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Button;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Caption = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Display1 = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Display2 = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Display3 = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Display4 = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Headline = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Large = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Large;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Medium = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Menu = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Small = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Small;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Subhead = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Title = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Title;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::com.refractored.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CuestionarioDemo.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::com.refractored.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CuestionarioDemo.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::com.refractored.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CuestionarioDemo.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::com.refractored.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::CuestionarioDemo.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::com.refractored.Resource.Style.Theme_AppCompat = global::CuestionarioDemo.Resource.Style.Theme_AppCompat;
+			global::com.refractored.Resource.Style.Theme_AppCompat_CompactMenu = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::com.refractored.Resource.Style.Theme_AppCompat_DayNight = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_DayNight;
+			global::com.refractored.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::com.refractored.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::com.refractored.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::com.refractored.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::com.refractored.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::com.refractored.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Dialog = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Dialog;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::com.refractored.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Light = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Light;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Light_Dialog = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::com.refractored.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::com.refractored.Resource.Style.Theme_AppCompat_NoActionBar = global::CuestionarioDemo.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::com.refractored.Resource.Style.ThemeOverlay_AppCompat = global::CuestionarioDemo.Resource.Style.ThemeOverlay_AppCompat;
+			global::com.refractored.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::CuestionarioDemo.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::com.refractored.Resource.Style.ThemeOverlay_AppCompat_Dark = global::CuestionarioDemo.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::com.refractored.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::CuestionarioDemo.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::com.refractored.Resource.Style.ThemeOverlay_AppCompat_Light = global::CuestionarioDemo.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActionBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActionBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActionButton = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActionButton;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActionMode = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActionMode;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ActivityChooserView = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::com.refractored.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Button = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Button;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Button_Borderless = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Button_Colored = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Button_Small = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Button_Small;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ButtonBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::com.refractored.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::com.refractored.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::com.refractored.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::com.refractored.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::com.refractored.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::com.refractored.Resource.Style.Widget_AppCompat_EditText = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_EditText;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ImageButton = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ImageButton;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionButton = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_SearchView = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ListPopupWindow = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ListView = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ListView;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ListView_DropDown = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ListView_Menu = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::com.refractored.Resource.Style.Widget_AppCompat_PopupMenu = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::com.refractored.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::com.refractored.Resource.Style.Widget_AppCompat_PopupWindow = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ProgressBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::com.refractored.Resource.Style.Widget_AppCompat_RatingBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_RatingBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::com.refractored.Resource.Style.Widget_AppCompat_RatingBar_Small = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::com.refractored.Resource.Style.Widget_AppCompat_SearchView = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_SearchView;
+			global::com.refractored.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_SeekBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_SeekBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Spinner = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Spinner;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::com.refractored.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Toolbar = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Toolbar;
+			global::com.refractored.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::CuestionarioDemo.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::com.refractored.Resource.Styleable.ActionBar = global::CuestionarioDemo.Resource.Styleable.ActionBar;
+			global::com.refractored.Resource.Styleable.ActionBar_background = global::CuestionarioDemo.Resource.Styleable.ActionBar_background;
+			global::com.refractored.Resource.Styleable.ActionBar_backgroundSplit = global::CuestionarioDemo.Resource.Styleable.ActionBar_backgroundSplit;
+			global::com.refractored.Resource.Styleable.ActionBar_backgroundStacked = global::CuestionarioDemo.Resource.Styleable.ActionBar_backgroundStacked;
+			global::com.refractored.Resource.Styleable.ActionBar_contentInsetEnd = global::CuestionarioDemo.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::com.refractored.Resource.Styleable.ActionBar_contentInsetLeft = global::CuestionarioDemo.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::com.refractored.Resource.Styleable.ActionBar_contentInsetRight = global::CuestionarioDemo.Resource.Styleable.ActionBar_contentInsetRight;
+			global::com.refractored.Resource.Styleable.ActionBar_contentInsetStart = global::CuestionarioDemo.Resource.Styleable.ActionBar_contentInsetStart;
+			global::com.refractored.Resource.Styleable.ActionBar_customNavigationLayout = global::CuestionarioDemo.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::com.refractored.Resource.Styleable.ActionBar_displayOptions = global::CuestionarioDemo.Resource.Styleable.ActionBar_displayOptions;
+			global::com.refractored.Resource.Styleable.ActionBar_divider = global::CuestionarioDemo.Resource.Styleable.ActionBar_divider;
+			global::com.refractored.Resource.Styleable.ActionBar_elevation = global::CuestionarioDemo.Resource.Styleable.ActionBar_elevation;
+			global::com.refractored.Resource.Styleable.ActionBar_height = global::CuestionarioDemo.Resource.Styleable.ActionBar_height;
+			global::com.refractored.Resource.Styleable.ActionBar_hideOnContentScroll = global::CuestionarioDemo.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::com.refractored.Resource.Styleable.ActionBar_homeAsUpIndicator = global::CuestionarioDemo.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::com.refractored.Resource.Styleable.ActionBar_homeLayout = global::CuestionarioDemo.Resource.Styleable.ActionBar_homeLayout;
+			global::com.refractored.Resource.Styleable.ActionBar_icon = global::CuestionarioDemo.Resource.Styleable.ActionBar_icon;
+			global::com.refractored.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::CuestionarioDemo.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::com.refractored.Resource.Styleable.ActionBar_itemPadding = global::CuestionarioDemo.Resource.Styleable.ActionBar_itemPadding;
+			global::com.refractored.Resource.Styleable.ActionBar_logo = global::CuestionarioDemo.Resource.Styleable.ActionBar_logo;
+			global::com.refractored.Resource.Styleable.ActionBar_navigationMode = global::CuestionarioDemo.Resource.Styleable.ActionBar_navigationMode;
+			global::com.refractored.Resource.Styleable.ActionBar_popupTheme = global::CuestionarioDemo.Resource.Styleable.ActionBar_popupTheme;
+			global::com.refractored.Resource.Styleable.ActionBar_progressBarPadding = global::CuestionarioDemo.Resource.Styleable.ActionBar_progressBarPadding;
+			global::com.refractored.Resource.Styleable.ActionBar_progressBarStyle = global::CuestionarioDemo.Resource.Styleable.ActionBar_progressBarStyle;
+			global::com.refractored.Resource.Styleable.ActionBar_subtitle = global::CuestionarioDemo.Resource.Styleable.ActionBar_subtitle;
+			global::com.refractored.Resource.Styleable.ActionBar_subtitleTextStyle = global::CuestionarioDemo.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::com.refractored.Resource.Styleable.ActionBar_title = global::CuestionarioDemo.Resource.Styleable.ActionBar_title;
+			global::com.refractored.Resource.Styleable.ActionBar_titleTextStyle = global::CuestionarioDemo.Resource.Styleable.ActionBar_titleTextStyle;
+			global::com.refractored.Resource.Styleable.ActionBarLayout = global::CuestionarioDemo.Resource.Styleable.ActionBarLayout;
+			global::com.refractored.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CuestionarioDemo.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::com.refractored.Resource.Styleable.ActionMenuItemView = global::CuestionarioDemo.Resource.Styleable.ActionMenuItemView;
+			global::com.refractored.Resource.Styleable.ActionMenuItemView_android_minWidth = global::CuestionarioDemo.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::com.refractored.Resource.Styleable.ActionMenuView = global::CuestionarioDemo.Resource.Styleable.ActionMenuView;
+			global::com.refractored.Resource.Styleable.ActionMode = global::CuestionarioDemo.Resource.Styleable.ActionMode;
+			global::com.refractored.Resource.Styleable.ActionMode_background = global::CuestionarioDemo.Resource.Styleable.ActionMode_background;
+			global::com.refractored.Resource.Styleable.ActionMode_backgroundSplit = global::CuestionarioDemo.Resource.Styleable.ActionMode_backgroundSplit;
+			global::com.refractored.Resource.Styleable.ActionMode_closeItemLayout = global::CuestionarioDemo.Resource.Styleable.ActionMode_closeItemLayout;
+			global::com.refractored.Resource.Styleable.ActionMode_height = global::CuestionarioDemo.Resource.Styleable.ActionMode_height;
+			global::com.refractored.Resource.Styleable.ActionMode_subtitleTextStyle = global::CuestionarioDemo.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::com.refractored.Resource.Styleable.ActionMode_titleTextStyle = global::CuestionarioDemo.Resource.Styleable.ActionMode_titleTextStyle;
+			global::com.refractored.Resource.Styleable.ActivityChooserView = global::CuestionarioDemo.Resource.Styleable.ActivityChooserView;
+			global::com.refractored.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::CuestionarioDemo.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::com.refractored.Resource.Styleable.ActivityChooserView_initialActivityCount = global::CuestionarioDemo.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::com.refractored.Resource.Styleable.AlertDialog = global::CuestionarioDemo.Resource.Styleable.AlertDialog;
+			global::com.refractored.Resource.Styleable.AlertDialog_android_layout = global::CuestionarioDemo.Resource.Styleable.AlertDialog_android_layout;
+			global::com.refractored.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::CuestionarioDemo.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::com.refractored.Resource.Styleable.AlertDialog_listItemLayout = global::CuestionarioDemo.Resource.Styleable.AlertDialog_listItemLayout;
+			global::com.refractored.Resource.Styleable.AlertDialog_listLayout = global::CuestionarioDemo.Resource.Styleable.AlertDialog_listLayout;
+			global::com.refractored.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::CuestionarioDemo.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::com.refractored.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::CuestionarioDemo.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::com.refractored.Resource.Styleable.AppCompatImageView = global::CuestionarioDemo.Resource.Styleable.AppCompatImageView;
+			global::com.refractored.Resource.Styleable.AppCompatImageView_android_src = global::CuestionarioDemo.Resource.Styleable.AppCompatImageView_android_src;
+			global::com.refractored.Resource.Styleable.AppCompatImageView_srcCompat = global::CuestionarioDemo.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::com.refractored.Resource.Styleable.AppCompatTextView = global::CuestionarioDemo.Resource.Styleable.AppCompatTextView;
+			global::com.refractored.Resource.Styleable.AppCompatTextView_android_textAppearance = global::CuestionarioDemo.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::com.refractored.Resource.Styleable.AppCompatTextView_textAllCaps = global::CuestionarioDemo.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::com.refractored.Resource.Styleable.AppCompatTheme = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarDivider = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarSize = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarTheme = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeBackground = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_buttonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_checkboxStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_colorAccent = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_colorControlActivated = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_colorControlNormal = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_colorPrimary = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_controlBackground = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_dialogTheme = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_dividerVertical = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_editTextBackground = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_editTextColor = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_editTextStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_panelBackground = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_searchViewStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_seekBarStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_spinnerStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_switchStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_toolbarStyle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowActionBar = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::com.refractored.Resource.Styleable.AppCompatTheme_windowNoTitle = global::CuestionarioDemo.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::com.refractored.Resource.Styleable.ButtonBarLayout = global::CuestionarioDemo.Resource.Styleable.ButtonBarLayout;
+			global::com.refractored.Resource.Styleable.ButtonBarLayout_allowStacking = global::CuestionarioDemo.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::com.refractored.Resource.Styleable.CompoundButton = global::CuestionarioDemo.Resource.Styleable.CompoundButton;
+			global::com.refractored.Resource.Styleable.CompoundButton_android_button = global::CuestionarioDemo.Resource.Styleable.CompoundButton_android_button;
+			global::com.refractored.Resource.Styleable.CompoundButton_buttonTint = global::CuestionarioDemo.Resource.Styleable.CompoundButton_buttonTint;
+			global::com.refractored.Resource.Styleable.CompoundButton_buttonTintMode = global::CuestionarioDemo.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::com.refractored.Resource.Styleable.DrawerArrowToggle = global::CuestionarioDemo.Resource.Styleable.DrawerArrowToggle;
+			global::com.refractored.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::CuestionarioDemo.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::com.refractored.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::CuestionarioDemo.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::com.refractored.Resource.Styleable.DrawerArrowToggle_barLength = global::CuestionarioDemo.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::com.refractored.Resource.Styleable.DrawerArrowToggle_color = global::CuestionarioDemo.Resource.Styleable.DrawerArrowToggle_color;
+			global::com.refractored.Resource.Styleable.DrawerArrowToggle_drawableSize = global::CuestionarioDemo.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::com.refractored.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::CuestionarioDemo.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::com.refractored.Resource.Styleable.DrawerArrowToggle_spinBars = global::CuestionarioDemo.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::com.refractored.Resource.Styleable.DrawerArrowToggle_thickness = global::CuestionarioDemo.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_android_gravity = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_android_orientation = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_divider = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_divider;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_showDividers = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_Layout = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::com.refractored.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::CuestionarioDemo.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::com.refractored.Resource.Styleable.ListPopupWindow = global::CuestionarioDemo.Resource.Styleable.ListPopupWindow;
+			global::com.refractored.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::CuestionarioDemo.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::com.refractored.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::CuestionarioDemo.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::com.refractored.Resource.Styleable.MenuGroup = global::CuestionarioDemo.Resource.Styleable.MenuGroup;
+			global::com.refractored.Resource.Styleable.MenuGroup_android_checkableBehavior = global::CuestionarioDemo.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::com.refractored.Resource.Styleable.MenuGroup_android_enabled = global::CuestionarioDemo.Resource.Styleable.MenuGroup_android_enabled;
+			global::com.refractored.Resource.Styleable.MenuGroup_android_id = global::CuestionarioDemo.Resource.Styleable.MenuGroup_android_id;
+			global::com.refractored.Resource.Styleable.MenuGroup_android_menuCategory = global::CuestionarioDemo.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::com.refractored.Resource.Styleable.MenuGroup_android_orderInCategory = global::CuestionarioDemo.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::com.refractored.Resource.Styleable.MenuGroup_android_visible = global::CuestionarioDemo.Resource.Styleable.MenuGroup_android_visible;
+			global::com.refractored.Resource.Styleable.MenuItem = global::CuestionarioDemo.Resource.Styleable.MenuItem;
+			global::com.refractored.Resource.Styleable.MenuItem_actionLayout = global::CuestionarioDemo.Resource.Styleable.MenuItem_actionLayout;
+			global::com.refractored.Resource.Styleable.MenuItem_actionProviderClass = global::CuestionarioDemo.Resource.Styleable.MenuItem_actionProviderClass;
+			global::com.refractored.Resource.Styleable.MenuItem_actionViewClass = global::CuestionarioDemo.Resource.Styleable.MenuItem_actionViewClass;
+			global::com.refractored.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::com.refractored.Resource.Styleable.MenuItem_android_checkable = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_checkable;
+			global::com.refractored.Resource.Styleable.MenuItem_android_checked = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_checked;
+			global::com.refractored.Resource.Styleable.MenuItem_android_enabled = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_enabled;
+			global::com.refractored.Resource.Styleable.MenuItem_android_icon = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_icon;
+			global::com.refractored.Resource.Styleable.MenuItem_android_id = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_id;
+			global::com.refractored.Resource.Styleable.MenuItem_android_menuCategory = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_menuCategory;
+			global::com.refractored.Resource.Styleable.MenuItem_android_numericShortcut = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::com.refractored.Resource.Styleable.MenuItem_android_onClick = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_onClick;
+			global::com.refractored.Resource.Styleable.MenuItem_android_orderInCategory = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::com.refractored.Resource.Styleable.MenuItem_android_title = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_title;
+			global::com.refractored.Resource.Styleable.MenuItem_android_titleCondensed = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::com.refractored.Resource.Styleable.MenuItem_android_visible = global::CuestionarioDemo.Resource.Styleable.MenuItem_android_visible;
+			global::com.refractored.Resource.Styleable.MenuItem_showAsAction = global::CuestionarioDemo.Resource.Styleable.MenuItem_showAsAction;
+			global::com.refractored.Resource.Styleable.MenuView = global::CuestionarioDemo.Resource.Styleable.MenuView;
+			global::com.refractored.Resource.Styleable.MenuView_android_headerBackground = global::CuestionarioDemo.Resource.Styleable.MenuView_android_headerBackground;
+			global::com.refractored.Resource.Styleable.MenuView_android_horizontalDivider = global::CuestionarioDemo.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::com.refractored.Resource.Styleable.MenuView_android_itemBackground = global::CuestionarioDemo.Resource.Styleable.MenuView_android_itemBackground;
+			global::com.refractored.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::CuestionarioDemo.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::com.refractored.Resource.Styleable.MenuView_android_itemTextAppearance = global::CuestionarioDemo.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::com.refractored.Resource.Styleable.MenuView_android_verticalDivider = global::CuestionarioDemo.Resource.Styleable.MenuView_android_verticalDivider;
+			global::com.refractored.Resource.Styleable.MenuView_android_windowAnimationStyle = global::CuestionarioDemo.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::com.refractored.Resource.Styleable.MenuView_preserveIconSpacing = global::CuestionarioDemo.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsDividerColor = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsDividerColor;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsDividerPadding = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsDividerPadding;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsDividerWidth = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsDividerWidth;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsIndicatorColor = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsIndicatorColor;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsIndicatorHeight = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsIndicatorHeight;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsPaddingMiddle = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsPaddingMiddle;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsScrollOffset = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsScrollOffset;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsShouldExpand = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsShouldExpand;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTabBackground = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsTabBackground;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTabPaddingLeftRight = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsTabPaddingLeftRight;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextAllCaps = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsTextAllCaps;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextAlpha = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsTextAlpha;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextColorSelected = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsTextColorSelected;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextSelectedStyle = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsTextSelectedStyle;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextStyle = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsTextStyle;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsUnderlineColor = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsUnderlineColor;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsUnderlineHeight = global::CuestionarioDemo.Resource.Styleable.PagerSlidingTabStrip_pstsUnderlineHeight;
+			global::com.refractored.Resource.Styleable.PopupWindow = global::CuestionarioDemo.Resource.Styleable.PopupWindow;
+			global::com.refractored.Resource.Styleable.PopupWindow_android_popupBackground = global::CuestionarioDemo.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::com.refractored.Resource.Styleable.PopupWindow_overlapAnchor = global::CuestionarioDemo.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::com.refractored.Resource.Styleable.PopupWindowBackgroundState = global::CuestionarioDemo.Resource.Styleable.PopupWindowBackgroundState;
+			global::com.refractored.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CuestionarioDemo.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::com.refractored.Resource.Styleable.SearchView = global::CuestionarioDemo.Resource.Styleable.SearchView;
+			global::com.refractored.Resource.Styleable.SearchView_android_focusable = global::CuestionarioDemo.Resource.Styleable.SearchView_android_focusable;
+			global::com.refractored.Resource.Styleable.SearchView_android_imeOptions = global::CuestionarioDemo.Resource.Styleable.SearchView_android_imeOptions;
+			global::com.refractored.Resource.Styleable.SearchView_android_inputType = global::CuestionarioDemo.Resource.Styleable.SearchView_android_inputType;
+			global::com.refractored.Resource.Styleable.SearchView_android_maxWidth = global::CuestionarioDemo.Resource.Styleable.SearchView_android_maxWidth;
+			global::com.refractored.Resource.Styleable.SearchView_closeIcon = global::CuestionarioDemo.Resource.Styleable.SearchView_closeIcon;
+			global::com.refractored.Resource.Styleable.SearchView_commitIcon = global::CuestionarioDemo.Resource.Styleable.SearchView_commitIcon;
+			global::com.refractored.Resource.Styleable.SearchView_defaultQueryHint = global::CuestionarioDemo.Resource.Styleable.SearchView_defaultQueryHint;
+			global::com.refractored.Resource.Styleable.SearchView_goIcon = global::CuestionarioDemo.Resource.Styleable.SearchView_goIcon;
+			global::com.refractored.Resource.Styleable.SearchView_iconifiedByDefault = global::CuestionarioDemo.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::com.refractored.Resource.Styleable.SearchView_layout = global::CuestionarioDemo.Resource.Styleable.SearchView_layout;
+			global::com.refractored.Resource.Styleable.SearchView_queryBackground = global::CuestionarioDemo.Resource.Styleable.SearchView_queryBackground;
+			global::com.refractored.Resource.Styleable.SearchView_queryHint = global::CuestionarioDemo.Resource.Styleable.SearchView_queryHint;
+			global::com.refractored.Resource.Styleable.SearchView_searchHintIcon = global::CuestionarioDemo.Resource.Styleable.SearchView_searchHintIcon;
+			global::com.refractored.Resource.Styleable.SearchView_searchIcon = global::CuestionarioDemo.Resource.Styleable.SearchView_searchIcon;
+			global::com.refractored.Resource.Styleable.SearchView_submitBackground = global::CuestionarioDemo.Resource.Styleable.SearchView_submitBackground;
+			global::com.refractored.Resource.Styleable.SearchView_suggestionRowLayout = global::CuestionarioDemo.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::com.refractored.Resource.Styleable.SearchView_voiceIcon = global::CuestionarioDemo.Resource.Styleable.SearchView_voiceIcon;
+			global::com.refractored.Resource.Styleable.Spinner = global::CuestionarioDemo.Resource.Styleable.Spinner;
+			global::com.refractored.Resource.Styleable.Spinner_android_dropDownWidth = global::CuestionarioDemo.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::com.refractored.Resource.Styleable.Spinner_android_entries = global::CuestionarioDemo.Resource.Styleable.Spinner_android_entries;
+			global::com.refractored.Resource.Styleable.Spinner_android_popupBackground = global::CuestionarioDemo.Resource.Styleable.Spinner_android_popupBackground;
+			global::com.refractored.Resource.Styleable.Spinner_android_prompt = global::CuestionarioDemo.Resource.Styleable.Spinner_android_prompt;
+			global::com.refractored.Resource.Styleable.Spinner_popupTheme = global::CuestionarioDemo.Resource.Styleable.Spinner_popupTheme;
+			global::com.refractored.Resource.Styleable.SwitchCompat = global::CuestionarioDemo.Resource.Styleable.SwitchCompat;
+			global::com.refractored.Resource.Styleable.SwitchCompat_android_textOff = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_android_textOff;
+			global::com.refractored.Resource.Styleable.SwitchCompat_android_textOn = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_android_textOn;
+			global::com.refractored.Resource.Styleable.SwitchCompat_android_thumb = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_android_thumb;
+			global::com.refractored.Resource.Styleable.SwitchCompat_showText = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_showText;
+			global::com.refractored.Resource.Styleable.SwitchCompat_splitTrack = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_splitTrack;
+			global::com.refractored.Resource.Styleable.SwitchCompat_switchMinWidth = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::com.refractored.Resource.Styleable.SwitchCompat_switchPadding = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_switchPadding;
+			global::com.refractored.Resource.Styleable.SwitchCompat_switchTextAppearance = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::com.refractored.Resource.Styleable.SwitchCompat_thumbTextPadding = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::com.refractored.Resource.Styleable.SwitchCompat_track = global::CuestionarioDemo.Resource.Styleable.SwitchCompat_track;
+			global::com.refractored.Resource.Styleable.TextAppearance = global::CuestionarioDemo.Resource.Styleable.TextAppearance;
+			global::com.refractored.Resource.Styleable.TextAppearance_android_shadowColor = global::CuestionarioDemo.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::com.refractored.Resource.Styleable.TextAppearance_android_shadowDx = global::CuestionarioDemo.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::com.refractored.Resource.Styleable.TextAppearance_android_shadowDy = global::CuestionarioDemo.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::com.refractored.Resource.Styleable.TextAppearance_android_shadowRadius = global::CuestionarioDemo.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::com.refractored.Resource.Styleable.TextAppearance_android_textColor = global::CuestionarioDemo.Resource.Styleable.TextAppearance_android_textColor;
+			global::com.refractored.Resource.Styleable.TextAppearance_android_textSize = global::CuestionarioDemo.Resource.Styleable.TextAppearance_android_textSize;
+			global::com.refractored.Resource.Styleable.TextAppearance_android_textStyle = global::CuestionarioDemo.Resource.Styleable.TextAppearance_android_textStyle;
+			global::com.refractored.Resource.Styleable.TextAppearance_android_typeface = global::CuestionarioDemo.Resource.Styleable.TextAppearance_android_typeface;
+			global::com.refractored.Resource.Styleable.TextAppearance_textAllCaps = global::CuestionarioDemo.Resource.Styleable.TextAppearance_textAllCaps;
+			global::com.refractored.Resource.Styleable.Toolbar = global::CuestionarioDemo.Resource.Styleable.Toolbar;
+			global::com.refractored.Resource.Styleable.Toolbar_android_gravity = global::CuestionarioDemo.Resource.Styleable.Toolbar_android_gravity;
+			global::com.refractored.Resource.Styleable.Toolbar_android_minHeight = global::CuestionarioDemo.Resource.Styleable.Toolbar_android_minHeight;
+			global::com.refractored.Resource.Styleable.Toolbar_collapseContentDescription = global::CuestionarioDemo.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::com.refractored.Resource.Styleable.Toolbar_collapseIcon = global::CuestionarioDemo.Resource.Styleable.Toolbar_collapseIcon;
+			global::com.refractored.Resource.Styleable.Toolbar_contentInsetEnd = global::CuestionarioDemo.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::com.refractored.Resource.Styleable.Toolbar_contentInsetLeft = global::CuestionarioDemo.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::com.refractored.Resource.Styleable.Toolbar_contentInsetRight = global::CuestionarioDemo.Resource.Styleable.Toolbar_contentInsetRight;
+			global::com.refractored.Resource.Styleable.Toolbar_contentInsetStart = global::CuestionarioDemo.Resource.Styleable.Toolbar_contentInsetStart;
+			global::com.refractored.Resource.Styleable.Toolbar_logo = global::CuestionarioDemo.Resource.Styleable.Toolbar_logo;
+			global::com.refractored.Resource.Styleable.Toolbar_logoDescription = global::CuestionarioDemo.Resource.Styleable.Toolbar_logoDescription;
+			global::com.refractored.Resource.Styleable.Toolbar_maxButtonHeight = global::CuestionarioDemo.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::com.refractored.Resource.Styleable.Toolbar_navigationContentDescription = global::CuestionarioDemo.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::com.refractored.Resource.Styleable.Toolbar_navigationIcon = global::CuestionarioDemo.Resource.Styleable.Toolbar_navigationIcon;
+			global::com.refractored.Resource.Styleable.Toolbar_popupTheme = global::CuestionarioDemo.Resource.Styleable.Toolbar_popupTheme;
+			global::com.refractored.Resource.Styleable.Toolbar_subtitle = global::CuestionarioDemo.Resource.Styleable.Toolbar_subtitle;
+			global::com.refractored.Resource.Styleable.Toolbar_subtitleTextAppearance = global::CuestionarioDemo.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::com.refractored.Resource.Styleable.Toolbar_subtitleTextColor = global::CuestionarioDemo.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::com.refractored.Resource.Styleable.Toolbar_title = global::CuestionarioDemo.Resource.Styleable.Toolbar_title;
+			global::com.refractored.Resource.Styleable.Toolbar_titleMarginBottom = global::CuestionarioDemo.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::com.refractored.Resource.Styleable.Toolbar_titleMarginEnd = global::CuestionarioDemo.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::com.refractored.Resource.Styleable.Toolbar_titleMarginStart = global::CuestionarioDemo.Resource.Styleable.Toolbar_titleMarginStart;
+			global::com.refractored.Resource.Styleable.Toolbar_titleMarginTop = global::CuestionarioDemo.Resource.Styleable.Toolbar_titleMarginTop;
+			global::com.refractored.Resource.Styleable.Toolbar_titleMargins = global::CuestionarioDemo.Resource.Styleable.Toolbar_titleMargins;
+			global::com.refractored.Resource.Styleable.Toolbar_titleTextAppearance = global::CuestionarioDemo.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::com.refractored.Resource.Styleable.Toolbar_titleTextColor = global::CuestionarioDemo.Resource.Styleable.Toolbar_titleTextColor;
+			global::com.refractored.Resource.Styleable.View = global::CuestionarioDemo.Resource.Styleable.View;
+			global::com.refractored.Resource.Styleable.View_android_focusable = global::CuestionarioDemo.Resource.Styleable.View_android_focusable;
+			global::com.refractored.Resource.Styleable.View_android_theme = global::CuestionarioDemo.Resource.Styleable.View_android_theme;
+			global::com.refractored.Resource.Styleable.View_paddingEnd = global::CuestionarioDemo.Resource.Styleable.View_paddingEnd;
+			global::com.refractored.Resource.Styleable.View_paddingStart = global::CuestionarioDemo.Resource.Styleable.View_paddingStart;
+			global::com.refractored.Resource.Styleable.View_theme = global::CuestionarioDemo.Resource.Styleable.View_theme;
+			global::com.refractored.Resource.Styleable.ViewBackgroundHelper = global::CuestionarioDemo.Resource.Styleable.ViewBackgroundHelper;
+			global::com.refractored.Resource.Styleable.ViewBackgroundHelper_android_background = global::CuestionarioDemo.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::com.refractored.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::CuestionarioDemo.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::com.refractored.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::CuestionarioDemo.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::com.refractored.Resource.Styleable.ViewStubCompat = global::CuestionarioDemo.Resource.Styleable.ViewStubCompat;
+			global::com.refractored.Resource.Styleable.ViewStubCompat_android_id = global::CuestionarioDemo.Resource.Styleable.ViewStubCompat_android_id;
+			global::com.refractored.Resource.Styleable.ViewStubCompat_android_inflatedId = global::CuestionarioDemo.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::com.refractored.Resource.Styleable.ViewStubCompat_android_layout = global::CuestionarioDemo.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -804,6 +2064,57 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f01001a
 			public const int progressBarStyle = 2130771994;
 			
+			// aapt resource value: 0x7f01015c
+			public const int pstsDividerColor = 2130772316;
+			
+			// aapt resource value: 0x7f010160
+			public const int pstsDividerPadding = 2130772320;
+			
+			// aapt resource value: 0x7f01015d
+			public const int pstsDividerWidth = 2130772317;
+			
+			// aapt resource value: 0x7f01015a
+			public const int pstsIndicatorColor = 2130772314;
+			
+			// aapt resource value: 0x7f01015e
+			public const int pstsIndicatorHeight = 2130772318;
+			
+			// aapt resource value: 0x7f010166
+			public const int pstsPaddingMiddle = 2130772326;
+			
+			// aapt resource value: 0x7f010162
+			public const int pstsScrollOffset = 2130772322;
+			
+			// aapt resource value: 0x7f010164
+			public const int pstsShouldExpand = 2130772324;
+			
+			// aapt resource value: 0x7f010163
+			public const int pstsTabBackground = 2130772323;
+			
+			// aapt resource value: 0x7f010161
+			public const int pstsTabPaddingLeftRight = 2130772321;
+			
+			// aapt resource value: 0x7f010165
+			public const int pstsTextAllCaps = 2130772325;
+			
+			// aapt resource value: 0x7f010168
+			public const int pstsTextAlpha = 2130772328;
+			
+			// aapt resource value: 0x7f010167
+			public const int pstsTextColorSelected = 2130772327;
+			
+			// aapt resource value: 0x7f01016a
+			public const int pstsTextSelectedStyle = 2130772330;
+			
+			// aapt resource value: 0x7f010169
+			public const int pstsTextStyle = 2130772329;
+			
+			// aapt resource value: 0x7f01015b
+			public const int pstsUnderlineColor = 2130772315;
+			
+			// aapt resource value: 0x7f01015f
+			public const int pstsUnderlineHeight = 2130772319;
+			
 			// aapt resource value: 0x7f0100dc
 			public const int queryBackground = 2130772188;
 			
@@ -1187,44 +2498,44 @@ namespace CuestionarioDemo
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0d004e
-			public const int abc_background_cache_hint_selector_material_dark = 2131558478;
-			
 			// aapt resource value: 0x7f0d004f
-			public const int abc_background_cache_hint_selector_material_light = 2131558479;
+			public const int abc_background_cache_hint_selector_material_dark = 2131558479;
 			
 			// aapt resource value: 0x7f0d0050
-			public const int abc_btn_colored_borderless_text_material = 2131558480;
+			public const int abc_background_cache_hint_selector_material_light = 2131558480;
 			
 			// aapt resource value: 0x7f0d0051
-			public const int abc_btn_colored_text_material = 2131558481;
+			public const int abc_btn_colored_borderless_text_material = 2131558481;
 			
 			// aapt resource value: 0x7f0d0052
-			public const int abc_color_highlight_material = 2131558482;
+			public const int abc_btn_colored_text_material = 2131558482;
 			
 			// aapt resource value: 0x7f0d0053
-			public const int abc_hint_foreground_material_dark = 2131558483;
+			public const int abc_color_highlight_material = 2131558483;
 			
 			// aapt resource value: 0x7f0d0054
-			public const int abc_hint_foreground_material_light = 2131558484;
+			public const int abc_hint_foreground_material_dark = 2131558484;
+			
+			// aapt resource value: 0x7f0d0055
+			public const int abc_hint_foreground_material_light = 2131558485;
 			
 			// aapt resource value: 0x7f0d0000
 			public const int abc_input_method_navigation_guard = 2131558400;
 			
-			// aapt resource value: 0x7f0d0055
-			public const int abc_primary_text_disable_only_material_dark = 2131558485;
-			
 			// aapt resource value: 0x7f0d0056
-			public const int abc_primary_text_disable_only_material_light = 2131558486;
+			public const int abc_primary_text_disable_only_material_dark = 2131558486;
 			
 			// aapt resource value: 0x7f0d0057
-			public const int abc_primary_text_material_dark = 2131558487;
+			public const int abc_primary_text_disable_only_material_light = 2131558487;
 			
 			// aapt resource value: 0x7f0d0058
-			public const int abc_primary_text_material_light = 2131558488;
+			public const int abc_primary_text_material_dark = 2131558488;
 			
 			// aapt resource value: 0x7f0d0059
-			public const int abc_search_url_text = 2131558489;
+			public const int abc_primary_text_material_light = 2131558489;
+			
+			// aapt resource value: 0x7f0d005a
+			public const int abc_search_url_text = 2131558490;
 			
 			// aapt resource value: 0x7f0d0001
 			public const int abc_search_url_text_normal = 2131558401;
@@ -1235,29 +2546,29 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f0d0003
 			public const int abc_search_url_text_selected = 2131558403;
 			
-			// aapt resource value: 0x7f0d005a
-			public const int abc_secondary_text_material_dark = 2131558490;
-			
 			// aapt resource value: 0x7f0d005b
-			public const int abc_secondary_text_material_light = 2131558491;
+			public const int abc_secondary_text_material_dark = 2131558491;
 			
 			// aapt resource value: 0x7f0d005c
-			public const int abc_tint_btn_checkable = 2131558492;
+			public const int abc_secondary_text_material_light = 2131558492;
 			
 			// aapt resource value: 0x7f0d005d
-			public const int abc_tint_default = 2131558493;
+			public const int abc_tint_btn_checkable = 2131558493;
 			
 			// aapt resource value: 0x7f0d005e
-			public const int abc_tint_edittext = 2131558494;
+			public const int abc_tint_default = 2131558494;
 			
 			// aapt resource value: 0x7f0d005f
-			public const int abc_tint_seek_thumb = 2131558495;
+			public const int abc_tint_edittext = 2131558495;
 			
 			// aapt resource value: 0x7f0d0060
-			public const int abc_tint_spinner = 2131558496;
+			public const int abc_tint_seek_thumb = 2131558496;
 			
 			// aapt resource value: 0x7f0d0061
-			public const int abc_tint_switch_track = 2131558497;
+			public const int abc_tint_spinner = 2131558497;
+			
+			// aapt resource value: 0x7f0d0062
+			public const int abc_tint_switch_track = 2131558498;
 			
 			// aapt resource value: 0x7f0d0004
 			public const int accent_material_dark = 2131558404;
@@ -1265,8 +2576,8 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f0d0005
 			public const int accent_material_light = 2131558405;
 			
-			// aapt resource value: 0x7f0d004c
-			public const int azul = 2131558476;
+			// aapt resource value: 0x7f0d004d
+			public const int azul = 2131558477;
 			
 			// aapt resource value: 0x7f0d0006
 			public const int background_floating_material_dark = 2131558406;
@@ -1304,20 +2615,20 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f0d0011
 			public const int button_material_light = 2131558417;
 			
-			// aapt resource value: 0x7f0d0049
-			public const int colorAccent = 2131558473;
-			
-			// aapt resource value: 0x7f0d0047
-			public const int colorPrimary = 2131558471;
+			// aapt resource value: 0x7f0d004a
+			public const int colorAccent = 2131558474;
 			
 			// aapt resource value: 0x7f0d0048
-			public const int colorPrimaryDark = 2131558472;
+			public const int colorPrimary = 2131558472;
+			
+			// aapt resource value: 0x7f0d0049
+			public const int colorPrimaryDark = 2131558473;
 			
 			// aapt resource value: 0x7f0d003c
 			public const int design_bottom_navigation_shadow_color = 2131558460;
 			
-			// aapt resource value: 0x7f0d0062
-			public const int design_error = 2131558498;
+			// aapt resource value: 0x7f0d0063
+			public const int design_error = 2131558499;
 			
 			// aapt resource value: 0x7f0d003d
 			public const int design_fab_shadow_end_color = 2131558461;
@@ -1343,8 +2654,8 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f0d0044
 			public const int design_snackbar_background_color = 2131558468;
 			
-			// aapt resource value: 0x7f0d0063
-			public const int design_tint_password_toggle = 2131558499;
+			// aapt resource value: 0x7f0d0064
+			public const int design_tint_password_toggle = 2131558500;
 			
 			// aapt resource value: 0x7f0d0012
 			public const int dim_foreground_disabled_material_dark = 2131558418;
@@ -1373,8 +2684,8 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f0d001a
 			public const int highlighted_text_material_light = 2131558426;
 			
-			// aapt resource value: 0x7f0d004d
-			public const int ic_launcher_background = 2131558477;
+			// aapt resource value: 0x7f0d004e
+			public const int ic_launcher_background = 2131558478;
 			
 			// aapt resource value: 0x7f0d001b
 			public const int material_blue_grey_800 = 2131558427;
@@ -1445,6 +2756,9 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f0d002e
 			public const int primary_text_disabled_material_light = 2131558446;
 			
+			// aapt resource value: 0x7f0d0047
+			public const int psts_background_tab_pressed = 2131558471;
+			
 			// aapt resource value: 0x7f0d002f
 			public const int ripple_material_dark = 2131558447;
 			
@@ -1469,11 +2783,11 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f0d0036
 			public const int switch_thumb_disabled_material_light = 2131558454;
 			
-			// aapt resource value: 0x7f0d0064
-			public const int switch_thumb_material_dark = 2131558500;
-			
 			// aapt resource value: 0x7f0d0065
-			public const int switch_thumb_material_light = 2131558501;
+			public const int switch_thumb_material_dark = 2131558501;
+			
+			// aapt resource value: 0x7f0d0066
+			public const int switch_thumb_material_light = 2131558502;
 			
 			// aapt resource value: 0x7f0d0037
 			public const int switch_thumb_normal_material_dark = 2131558455;
@@ -1487,11 +2801,11 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f0d003a
 			public const int tooltip_background_light = 2131558458;
 			
-			// aapt resource value: 0x7f0d004b
-			public const int verdeBajito = 2131558475;
+			// aapt resource value: 0x7f0d004c
+			public const int verdeBajito = 2131558476;
 			
-			// aapt resource value: 0x7f0d004a
-			public const int verdeSubido = 2131558474;
+			// aapt resource value: 0x7f0d004b
+			public const int verdeSubido = 2131558475;
 			
 			static Color()
 			{
@@ -2239,26 +3553,26 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f02006a
-			public const int avd_hide_password_1 = 2130837610;
-			
 			// aapt resource value: 0x7f02006b
-			public const int avd_hide_password_2 = 2130837611;
+			public const int avd_hide_password_1 = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int avd_hide_password_3 = 2130837612;
+			public const int avd_hide_password_2 = 2130837612;
+			
+			// aapt resource value: 0x7f02006d
+			public const int avd_hide_password_3 = 2130837613;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f02006d
-			public const int avd_show_password_1 = 2130837613;
-			
 			// aapt resource value: 0x7f02006e
-			public const int avd_show_password_2 = 2130837614;
+			public const int avd_show_password_1 = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int avd_show_password_3 = 2130837615;
+			public const int avd_show_password_2 = 2130837615;
+			
+			// aapt resource value: 0x7f020070
+			public const int avd_show_password_3 = 2130837616;
 			
 			// aapt resource value: 0x7f020055
 			public const int design_bottom_navigation_item_background = 2130837589;
@@ -2305,11 +3619,11 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f020063
 			public const int notification_icon_background = 2130837603;
 			
-			// aapt resource value: 0x7f020068
-			public const int notification_template_icon_bg = 2130837608;
-			
 			// aapt resource value: 0x7f020069
-			public const int notification_template_icon_low_bg = 2130837609;
+			public const int notification_template_icon_bg = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int notification_template_icon_low_bg = 2130837610;
 			
 			// aapt resource value: 0x7f020064
 			public const int notification_tile_bg = 2130837604;
@@ -2318,10 +3632,13 @@ namespace CuestionarioDemo
 			public const int notify_panel_notification_icon_bg = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int tooltip_frame_dark = 2130837606;
+			public const int psts_background_tab = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int tooltip_frame_light = 2130837607;
+			public const int tooltip_frame_dark = 2130837607;
+			
+			// aapt resource value: 0x7f020068
+			public const int tooltip_frame_light = 2130837608;
 			
 			static Drawable()
 			{
@@ -2345,6 +3662,12 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090034
 			public const int FUNCTION = 2131296308;
 			
+			// aapt resource value: 0x7f0900a2
+			public const int ListaPreguntas = 2131296418;
+			
+			// aapt resource value: 0x7f0900a3
+			public const int ListaRespuestas = 2131296419;
+			
 			// aapt resource value: 0x7f090035
 			public const int META = 2131296309;
 			
@@ -2354,41 +3677,47 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090037
 			public const int SYM = 2131296311;
 			
-			// aapt resource value: 0x7f0900a3
-			public const int action0 = 2131296419;
+			// aapt resource value: 0x7f0900a4
+			public const int TabsPrincipales = 2131296420;
 			
-			// aapt resource value: 0x7f09007c
-			public const int action_bar = 2131296380;
+			// aapt resource value: 0x7f0900a5
+			public const int ViewPagerPrincipal = 2131296421;
+			
+			// aapt resource value: 0x7f0900a9
+			public const int action0 = 2131296425;
+			
+			// aapt resource value: 0x7f09007d
+			public const int action_bar = 2131296381;
 			
 			// aapt resource value: 0x7f090001
 			public const int action_bar_activity_content = 2131296257;
 			
-			// aapt resource value: 0x7f09007b
-			public const int action_bar_container = 2131296379;
+			// aapt resource value: 0x7f09007c
+			public const int action_bar_container = 2131296380;
 			
-			// aapt resource value: 0x7f090077
-			public const int action_bar_root = 2131296375;
+			// aapt resource value: 0x7f090078
+			public const int action_bar_root = 2131296376;
 			
 			// aapt resource value: 0x7f090002
 			public const int action_bar_spinner = 2131296258;
 			
+			// aapt resource value: 0x7f09005c
+			public const int action_bar_subtitle = 2131296348;
+			
 			// aapt resource value: 0x7f09005b
-			public const int action_bar_subtitle = 2131296347;
+			public const int action_bar_title = 2131296347;
 			
-			// aapt resource value: 0x7f09005a
-			public const int action_bar_title = 2131296346;
+			// aapt resource value: 0x7f0900a6
+			public const int action_container = 2131296422;
 			
-			// aapt resource value: 0x7f0900a0
-			public const int action_container = 2131296416;
+			// aapt resource value: 0x7f09007e
+			public const int action_context_bar = 2131296382;
 			
-			// aapt resource value: 0x7f09007d
-			public const int action_context_bar = 2131296381;
+			// aapt resource value: 0x7f0900ad
+			public const int action_divider = 2131296429;
 			
 			// aapt resource value: 0x7f0900a7
-			public const int action_divider = 2131296423;
-			
-			// aapt resource value: 0x7f0900a1
-			public const int action_image = 2131296417;
+			public const int action_image = 2131296423;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -2396,32 +3725,32 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090004
 			public const int action_menu_presenter = 2131296260;
 			
+			// aapt resource value: 0x7f09007a
+			public const int action_mode_bar = 2131296378;
+			
 			// aapt resource value: 0x7f090079
-			public const int action_mode_bar = 2131296377;
-			
-			// aapt resource value: 0x7f090078
-			public const int action_mode_bar_stub = 2131296376;
-			
-			// aapt resource value: 0x7f09005c
-			public const int action_mode_close_button = 2131296348;
-			
-			// aapt resource value: 0x7f0900b6
-			public const int action_settings = 2131296438;
-			
-			// aapt resource value: 0x7f0900a2
-			public const int action_text = 2131296418;
-			
-			// aapt resource value: 0x7f0900b0
-			public const int actions = 2131296432;
+			public const int action_mode_bar_stub = 2131296377;
 			
 			// aapt resource value: 0x7f09005d
-			public const int activity_chooser_view_content = 2131296349;
+			public const int action_mode_close_button = 2131296349;
+			
+			// aapt resource value: 0x7f0900bd
+			public const int action_settings = 2131296445;
+			
+			// aapt resource value: 0x7f0900a8
+			public const int action_text = 2131296424;
+			
+			// aapt resource value: 0x7f0900b6
+			public const int actions = 2131296438;
+			
+			// aapt resource value: 0x7f09005e
+			public const int activity_chooser_view_content = 2131296350;
 			
 			// aapt resource value: 0x7f090027
 			public const int add = 2131296295;
 			
-			// aapt resource value: 0x7f090070
-			public const int alertTitle = 2131296368;
+			// aapt resource value: 0x7f090071
+			public const int alertTitle = 2131296369;
 			
 			// aapt resource value: 0x7f090052
 			public const int all = 2131296338;
@@ -2441,23 +3770,20 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090057
 			public const int blocking = 2131296343;
 			
+			// aapt resource value: 0x7f09005a
+			public const int bold = 2131296346;
+			
 			// aapt resource value: 0x7f09003d
 			public const int bottom = 2131296317;
 			
-			// aapt resource value: 0x7f09009f
-			public const int btnHigieneArea = 2131296415;
+			// aapt resource value: 0x7f090090
+			public const int btnLogin = 2131296400;
 			
-			// aapt resource value: 0x7f09009e
-			public const int btnHigieneUsuario = 2131296414;
+			// aapt resource value: 0x7f090064
+			public const int buttonPanel = 2131296356;
 			
-			// aapt resource value: 0x7f09008f
-			public const int btnLogin = 2131296399;
-			
-			// aapt resource value: 0x7f090063
-			public const int buttonPanel = 2131296355;
-			
-			// aapt resource value: 0x7f0900a4
-			public const int cancel_action = 2131296420;
+			// aapt resource value: 0x7f0900aa
+			public const int cancel_action = 2131296426;
 			
 			// aapt resource value: 0x7f090045
 			public const int center = 2131296325;
@@ -2468,11 +3794,11 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090047
 			public const int center_vertical = 2131296327;
 			
-			// aapt resource value: 0x7f090073
-			public const int checkbox = 2131296371;
+			// aapt resource value: 0x7f090074
+			public const int checkbox = 2131296372;
 			
-			// aapt resource value: 0x7f0900ac
-			public const int chronometer = 2131296428;
+			// aapt resource value: 0x7f0900b2
+			public const int chronometer = 2131296434;
 			
 			// aapt resource value: 0x7f09004e
 			public const int clip_horizontal = 2131296334;
@@ -2483,53 +3809,53 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090039
 			public const int collapseActionView = 2131296313;
 			
-			// aapt resource value: 0x7f090092
-			public const int container = 2131296402;
-			
-			// aapt resource value: 0x7f090066
-			public const int contentPanel = 2131296358;
-			
 			// aapt resource value: 0x7f090093
-			public const int coordinator = 2131296403;
+			public const int container = 2131296403;
+			
+			// aapt resource value: 0x7f090067
+			public const int contentPanel = 2131296359;
+			
+			// aapt resource value: 0x7f090094
+			public const int coordinator = 2131296404;
+			
+			// aapt resource value: 0x7f09006e
+			public const int custom = 2131296366;
 			
 			// aapt resource value: 0x7f09006d
-			public const int custom = 2131296365;
+			public const int customPanel = 2131296365;
 			
-			// aapt resource value: 0x7f09006c
-			public const int customPanel = 2131296364;
+			// aapt resource value: 0x7f09007b
+			public const int decor_content_parent = 2131296379;
 			
-			// aapt resource value: 0x7f09007a
-			public const int decor_content_parent = 2131296378;
+			// aapt resource value: 0x7f090061
+			public const int default_activity_button = 2131296353;
 			
-			// aapt resource value: 0x7f090060
-			public const int default_activity_button = 2131296352;
+			// aapt resource value: 0x7f090096
+			public const int design_bottom_sheet = 2131296406;
 			
-			// aapt resource value: 0x7f090095
-			public const int design_bottom_sheet = 2131296405;
+			// aapt resource value: 0x7f09009d
+			public const int design_menu_item_action_area = 2131296413;
 			
 			// aapt resource value: 0x7f09009c
-			public const int design_menu_item_action_area = 2131296412;
+			public const int design_menu_item_action_area_stub = 2131296412;
 			
 			// aapt resource value: 0x7f09009b
-			public const int design_menu_item_action_area_stub = 2131296411;
+			public const int design_menu_item_text = 2131296411;
 			
 			// aapt resource value: 0x7f09009a
-			public const int design_menu_item_text = 2131296410;
-			
-			// aapt resource value: 0x7f090099
-			public const int design_navigation_view = 2131296409;
+			public const int design_navigation_view = 2131296410;
 			
 			// aapt resource value: 0x7f090020
 			public const int disableHome = 2131296288;
 			
-			// aapt resource value: 0x7f09007e
-			public const int edit_query = 2131296382;
+			// aapt resource value: 0x7f09007f
+			public const int edit_query = 2131296383;
 			
 			// aapt resource value: 0x7f090030
 			public const int end = 2131296304;
 			
-			// aapt resource value: 0x7f0900b2
-			public const int end_padder = 2131296434;
+			// aapt resource value: 0x7f0900b8
+			public const int end_padder = 2131296440;
 			
 			// aapt resource value: 0x7f09003f
 			public const int enterAlways = 2131296319;
@@ -2540,11 +3866,11 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090041
 			public const int exitUntilCollapsed = 2131296321;
 			
-			// aapt resource value: 0x7f09005e
-			public const int expand_activities_button = 2131296350;
+			// aapt resource value: 0x7f09005f
+			public const int expand_activities_button = 2131296351;
 			
-			// aapt resource value: 0x7f090072
-			public const int expanded_menu = 2131296370;
+			// aapt resource value: 0x7f090073
+			public const int expanded_menu = 2131296371;
 			
 			// aapt resource value: 0x7f090050
 			public const int fill = 2131296336;
@@ -2570,20 +3896,20 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090021
 			public const int homeAsUp = 2131296289;
 			
-			// aapt resource value: 0x7f090062
-			public const int icon = 2131296354;
+			// aapt resource value: 0x7f090063
+			public const int icon = 2131296355;
 			
-			// aapt resource value: 0x7f0900b1
-			public const int icon_group = 2131296433;
+			// aapt resource value: 0x7f0900b7
+			public const int icon_group = 2131296439;
 			
 			// aapt resource value: 0x7f09003a
 			public const int ifRoom = 2131296314;
 			
-			// aapt resource value: 0x7f09005f
-			public const int image = 2131296351;
+			// aapt resource value: 0x7f090060
+			public const int image = 2131296352;
 			
-			// aapt resource value: 0x7f0900ad
-			public const int info = 2131296429;
+			// aapt resource value: 0x7f0900b3
+			public const int info = 2131296435;
 			
 			// aapt resource value: 0x7f090059
 			public const int italic = 2131296345;
@@ -2591,8 +3917,8 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090000
 			public const int item_touch_helper_previous_elevation = 2131296256;
 			
-			// aapt resource value: 0x7f090091
-			public const int largeLabel = 2131296401;
+			// aapt resource value: 0x7f090092
+			public const int largeLabel = 2131296402;
 			
 			// aapt resource value: 0x7f090049
 			public const int left = 2131296329;
@@ -2606,20 +3932,20 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f09001d
 			public const int listMode = 2131296285;
 			
-			// aapt resource value: 0x7f090061
-			public const int list_item = 2131296353;
+			// aapt resource value: 0x7f090062
+			public const int list_item = 2131296354;
 			
-			// aapt resource value: 0x7f09008c
-			public const int lnPreguntas = 2131296396;
+			// aapt resource value: 0x7f09008d
+			public const int lnPreguntas = 2131296397;
 			
-			// aapt resource value: 0x7f0900b5
-			public const int masked = 2131296437;
+			// aapt resource value: 0x7f0900bc
+			public const int masked = 2131296444;
 			
-			// aapt resource value: 0x7f0900a6
-			public const int media_actions = 2131296422;
+			// aapt resource value: 0x7f0900ac
+			public const int media_actions = 2131296428;
 			
-			// aapt resource value: 0x7f0900b3
-			public const int message = 2131296435;
+			// aapt resource value: 0x7f0900ba
+			public const int message = 2131296442;
 			
 			// aapt resource value: 0x7f090031
 			public const int middle = 2131296305;
@@ -2630,11 +3956,14 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090028
 			public const int multiply = 2131296296;
 			
-			// aapt resource value: 0x7f090098
-			public const int navigation_header_container = 2131296408;
+			// aapt resource value: 0x7f090099
+			public const int navigation_header_container = 2131296409;
 			
 			// aapt resource value: 0x7f09003b
 			public const int never = 2131296315;
+			
+			// aapt resource value: 0x7f0900a1
+			public const int no = 2131296417;
 			
 			// aapt resource value: 0x7f090022
 			public const int none = 2131296290;
@@ -2642,20 +3971,20 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f09001e
 			public const int normal = 2131296286;
 			
+			// aapt resource value: 0x7f0900b5
+			public const int notification_background = 2131296437;
+			
 			// aapt resource value: 0x7f0900af
-			public const int notification_background = 2131296431;
+			public const int notification_main_column = 2131296431;
 			
-			// aapt resource value: 0x7f0900a9
-			public const int notification_main_column = 2131296425;
-			
-			// aapt resource value: 0x7f0900a8
-			public const int notification_main_column_container = 2131296424;
+			// aapt resource value: 0x7f0900ae
+			public const int notification_main_column_container = 2131296430;
 			
 			// aapt resource value: 0x7f09004c
 			public const int parallax = 2131296332;
 			
-			// aapt resource value: 0x7f090065
-			public const int parentPanel = 2131296357;
+			// aapt resource value: 0x7f090066
+			public const int parentPanel = 2131296358;
 			
 			// aapt resource value: 0x7f09000b
 			public const int parent_matrix = 2131296267;
@@ -2669,17 +3998,20 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090007
 			public const int progress_horizontal = 2131296263;
 			
-			// aapt resource value: 0x7f090075
-			public const int radio = 2131296373;
+			// aapt resource value: 0x7f0900b9
+			public const int psts_tab_title = 2131296441;
+			
+			// aapt resource value: 0x7f090076
+			public const int radio = 2131296374;
 			
 			// aapt resource value: 0x7f09004a
 			public const int right = 2131296330;
 			
-			// aapt resource value: 0x7f0900ae
-			public const int right_icon = 2131296430;
+			// aapt resource value: 0x7f0900b4
+			public const int right_icon = 2131296436;
 			
-			// aapt resource value: 0x7f0900aa
-			public const int right_side = 2131296426;
+			// aapt resource value: 0x7f0900b0
+			public const int right_side = 2131296432;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -2696,53 +4028,53 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090042
 			public const int scroll = 2131296322;
 			
-			// aapt resource value: 0x7f09006b
-			public const int scrollIndicatorDown = 2131296363;
-			
-			// aapt resource value: 0x7f090067
-			public const int scrollIndicatorUp = 2131296359;
+			// aapt resource value: 0x7f09006c
+			public const int scrollIndicatorDown = 2131296364;
 			
 			// aapt resource value: 0x7f090068
-			public const int scrollView = 2131296360;
+			public const int scrollIndicatorUp = 2131296360;
+			
+			// aapt resource value: 0x7f090069
+			public const int scrollView = 2131296361;
 			
 			// aapt resource value: 0x7f090055
 			public const int scrollable = 2131296341;
 			
-			// aapt resource value: 0x7f090080
-			public const int search_badge = 2131296384;
-			
-			// aapt resource value: 0x7f09007f
-			public const int search_bar = 2131296383;
-			
 			// aapt resource value: 0x7f090081
-			public const int search_button = 2131296385;
+			public const int search_badge = 2131296385;
 			
-			// aapt resource value: 0x7f090086
-			public const int search_close_btn = 2131296390;
+			// aapt resource value: 0x7f090080
+			public const int search_bar = 2131296384;
 			
 			// aapt resource value: 0x7f090082
-			public const int search_edit_frame = 2131296386;
+			public const int search_button = 2131296386;
 			
-			// aapt resource value: 0x7f090088
-			public const int search_go_btn = 2131296392;
+			// aapt resource value: 0x7f090087
+			public const int search_close_btn = 2131296391;
 			
 			// aapt resource value: 0x7f090083
-			public const int search_mag_icon = 2131296387;
-			
-			// aapt resource value: 0x7f090084
-			public const int search_plate = 2131296388;
-			
-			// aapt resource value: 0x7f090085
-			public const int search_src_text = 2131296389;
+			public const int search_edit_frame = 2131296387;
 			
 			// aapt resource value: 0x7f090089
-			public const int search_voice_btn = 2131296393;
+			public const int search_go_btn = 2131296393;
+			
+			// aapt resource value: 0x7f090084
+			public const int search_mag_icon = 2131296388;
+			
+			// aapt resource value: 0x7f090085
+			public const int search_plate = 2131296389;
+			
+			// aapt resource value: 0x7f090086
+			public const int search_src_text = 2131296390;
 			
 			// aapt resource value: 0x7f09008a
-			public const int select_dialog_listview = 2131296394;
+			public const int search_voice_btn = 2131296394;
 			
-			// aapt resource value: 0x7f090074
-			public const int shortcut = 2131296372;
+			// aapt resource value: 0x7f09008b
+			public const int select_dialog_listview = 2131296395;
+			
+			// aapt resource value: 0x7f090075
+			public const int shortcut = 2131296373;
 			
 			// aapt resource value: 0x7f090023
 			public const int showCustom = 2131296291;
@@ -2753,20 +4085,23 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090025
 			public const int showTitle = 2131296293;
 			
-			// aapt resource value: 0x7f090090
-			public const int smallLabel = 2131296400;
+			// aapt resource value: 0x7f0900a0
+			public const int si = 2131296416;
+			
+			// aapt resource value: 0x7f090091
+			public const int smallLabel = 2131296401;
+			
+			// aapt resource value: 0x7f090098
+			public const int snackbar_action = 2131296408;
 			
 			// aapt resource value: 0x7f090097
-			public const int snackbar_action = 2131296407;
-			
-			// aapt resource value: 0x7f090096
-			public const int snackbar_text = 2131296406;
+			public const int snackbar_text = 2131296407;
 			
 			// aapt resource value: 0x7f090043
 			public const int snap = 2131296323;
 			
-			// aapt resource value: 0x7f090064
-			public const int spacer = 2131296356;
+			// aapt resource value: 0x7f090065
+			public const int spacer = 2131296357;
 			
 			// aapt resource value: 0x7f090008
 			public const int split_action_bar = 2131296264;
@@ -2783,14 +4118,14 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f09004b
 			public const int start = 2131296331;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int status_bar_latest_event_content = 2131296421;
+			// aapt resource value: 0x7f0900ab
+			public const int status_bar_latest_event_content = 2131296427;
 			
-			// aapt resource value: 0x7f090076
-			public const int submenuarrow = 2131296374;
+			// aapt resource value: 0x7f090077
+			public const int submenuarrow = 2131296375;
 			
-			// aapt resource value: 0x7f090087
-			public const int submit_area = 2131296391;
+			// aapt resource value: 0x7f090088
+			public const int submit_area = 2131296392;
 			
 			// aapt resource value: 0x7f09001f
 			public const int tabMode = 2131296287;
@@ -2804,14 +4139,14 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f09001b
 			public const int text2 = 2131296283;
 			
+			// aapt resource value: 0x7f09006b
+			public const int textSpacerNoButtons = 2131296363;
+			
 			// aapt resource value: 0x7f09006a
-			public const int textSpacerNoButtons = 2131296362;
+			public const int textSpacerNoTitle = 2131296362;
 			
-			// aapt resource value: 0x7f090069
-			public const int textSpacerNoTitle = 2131296361;
-			
-			// aapt resource value: 0x7f09009d
-			public const int text_input_password_toggle = 2131296413;
+			// aapt resource value: 0x7f09009e
+			public const int text_input_password_toggle = 2131296414;
 			
 			// aapt resource value: 0x7f090014
 			public const int textinput_counter = 2131296276;
@@ -2819,26 +4154,26 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090015
 			public const int textinput_error = 2131296277;
 			
-			// aapt resource value: 0x7f0900ab
-			public const int time = 2131296427;
+			// aapt resource value: 0x7f0900b1
+			public const int time = 2131296433;
 			
 			// aapt resource value: 0x7f09001c
 			public const int title = 2131296284;
 			
-			// aapt resource value: 0x7f090071
-			public const int titleDividerNoCustom = 2131296369;
+			// aapt resource value: 0x7f090072
+			public const int titleDividerNoCustom = 2131296370;
 			
-			// aapt resource value: 0x7f09006f
-			public const int title_template = 2131296367;
+			// aapt resource value: 0x7f090070
+			public const int title_template = 2131296368;
 			
 			// aapt resource value: 0x7f09003e
 			public const int top = 2131296318;
 			
-			// aapt resource value: 0x7f09006e
-			public const int topPanel = 2131296366;
+			// aapt resource value: 0x7f09006f
+			public const int topPanel = 2131296367;
 			
-			// aapt resource value: 0x7f090094
-			public const int touch_outside = 2131296404;
+			// aapt resource value: 0x7f090095
+			public const int touch_outside = 2131296405;
 			
 			// aapt resource value: 0x7f09000f
 			public const int transition_current_scene = 2131296271;
@@ -2855,11 +4190,14 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090013
 			public const int transition_transform = 2131296275;
 			
-			// aapt resource value: 0x7f09008e
-			public const int txtContrasena = 2131296398;
+			// aapt resource value: 0x7f09008f
+			public const int txtContrasena = 2131296399;
 			
-			// aapt resource value: 0x7f09008d
-			public const int txtUsuario = 2131296397;
+			// aapt resource value: 0x7f09009f
+			public const int txtPregunta = 2131296415;
+			
+			// aapt resource value: 0x7f09008e
+			public const int txtUsuario = 2131296398;
 			
 			// aapt resource value: 0x7f09002d
 			public const int uniform = 2131296301;
@@ -2870,14 +4208,14 @@ namespace CuestionarioDemo
 			// aapt resource value: 0x7f090026
 			public const int useLogo = 2131296294;
 			
-			// aapt resource value: 0x7f09008b
-			public const int videoPlay = 2131296395;
+			// aapt resource value: 0x7f09008c
+			public const int videoPlay = 2131296396;
 			
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900b4
-			public const int visible = 2131296436;
+			// aapt resource value: 0x7f0900bb
+			public const int visible = 2131296443;
 			
 			// aapt resource value: 0x7f09003c
 			public const int withText = 2131296316;
@@ -3065,67 +4403,79 @@ namespace CuestionarioDemo
 			public const int design_text_input_password_icon = 2130968616;
 			
 			// aapt resource value: 0x7f040029
-			public const int layout_activityMenu = 2130968617;
+			public const int itemsLista = 2130968617;
 			
 			// aapt resource value: 0x7f04002a
-			public const int notification_action = 2130968618;
+			public const int layoutPreguntas = 2130968618;
 			
 			// aapt resource value: 0x7f04002b
-			public const int notification_action_tombstone = 2130968619;
+			public const int layoutRespuestas = 2130968619;
 			
 			// aapt resource value: 0x7f04002c
-			public const int notification_media_action = 2130968620;
+			public const int Menu = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int notification_media_cancel_action = 2130968621;
+			public const int notification_action = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int notification_template_big_media = 2130968622;
+			public const int notification_action_tombstone = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int notification_template_big_media_custom = 2130968623;
+			public const int notification_media_action = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int notification_template_big_media_narrow = 2130968624;
+			public const int notification_media_cancel_action = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int notification_template_big_media_narrow_custom = 2130968625;
+			public const int notification_template_big_media = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int notification_template_custom_big = 2130968626;
+			public const int notification_template_big_media_custom = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int notification_template_icon_group = 2130968627;
+			public const int notification_template_big_media_narrow = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int notification_template_lines_media = 2130968628;
+			public const int notification_template_big_media_narrow_custom = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int notification_template_media = 2130968629;
+			public const int notification_template_custom_big = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int notification_template_media_custom = 2130968630;
+			public const int notification_template_icon_group = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int notification_template_part_chronometer = 2130968631;
+			public const int notification_template_lines_media = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int notification_template_part_time = 2130968632;
+			public const int notification_template_media = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int select_dialog_item_material = 2130968633;
+			public const int notification_template_media_custom = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int select_dialog_multichoice_material = 2130968634;
+			public const int notification_template_part_chronometer = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int select_dialog_singlechoice_material = 2130968635;
+			public const int notification_template_part_time = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int support_simple_spinner_dropdown_item = 2130968636;
+			public const int psts_tab = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int tooltip = 2130968637;
+			public const int select_dialog_item_material = 2130968637;
+			
+			// aapt resource value: 0x7f04003e
+			public const int select_dialog_multichoice_material = 2130968638;
+			
+			// aapt resource value: 0x7f04003f
+			public const int select_dialog_singlechoice_material = 2130968639;
+			
+			// aapt resource value: 0x7f040040
+			public const int support_simple_spinner_dropdown_item = 2130968640;
+			
+			// aapt resource value: 0x7f040041
+			public const int tooltip = 2130968641;
 			
 			static Layout()
 			{
@@ -5933,6 +7283,76 @@ namespace CuestionarioDemo
 			
 			// aapt resource value: 4
 			public const int NavigationView_menu = 4;
+			
+			public static int[] PagerSlidingTabStrip = new int[] {
+					2130772314,
+					2130772315,
+					2130772316,
+					2130772317,
+					2130772318,
+					2130772319,
+					2130772320,
+					2130772321,
+					2130772322,
+					2130772323,
+					2130772324,
+					2130772325,
+					2130772326,
+					2130772327,
+					2130772328,
+					2130772329,
+					2130772330};
+			
+			// aapt resource value: 2
+			public const int PagerSlidingTabStrip_pstsDividerColor = 2;
+			
+			// aapt resource value: 6
+			public const int PagerSlidingTabStrip_pstsDividerPadding = 6;
+			
+			// aapt resource value: 3
+			public const int PagerSlidingTabStrip_pstsDividerWidth = 3;
+			
+			// aapt resource value: 0
+			public const int PagerSlidingTabStrip_pstsIndicatorColor = 0;
+			
+			// aapt resource value: 4
+			public const int PagerSlidingTabStrip_pstsIndicatorHeight = 4;
+			
+			// aapt resource value: 12
+			public const int PagerSlidingTabStrip_pstsPaddingMiddle = 12;
+			
+			// aapt resource value: 8
+			public const int PagerSlidingTabStrip_pstsScrollOffset = 8;
+			
+			// aapt resource value: 10
+			public const int PagerSlidingTabStrip_pstsShouldExpand = 10;
+			
+			// aapt resource value: 9
+			public const int PagerSlidingTabStrip_pstsTabBackground = 9;
+			
+			// aapt resource value: 7
+			public const int PagerSlidingTabStrip_pstsTabPaddingLeftRight = 7;
+			
+			// aapt resource value: 11
+			public const int PagerSlidingTabStrip_pstsTextAllCaps = 11;
+			
+			// aapt resource value: 14
+			public const int PagerSlidingTabStrip_pstsTextAlpha = 14;
+			
+			// aapt resource value: 13
+			public const int PagerSlidingTabStrip_pstsTextColorSelected = 13;
+			
+			// aapt resource value: 16
+			public const int PagerSlidingTabStrip_pstsTextSelectedStyle = 16;
+			
+			// aapt resource value: 15
+			public const int PagerSlidingTabStrip_pstsTextStyle = 15;
+			
+			// aapt resource value: 1
+			public const int PagerSlidingTabStrip_pstsUnderlineColor = 1;
+			
+			// aapt resource value: 5
+			public const int PagerSlidingTabStrip_pstsUnderlineHeight = 5;
 			
 			public static int[] PopupWindow = new int[] {
 					16843126,
