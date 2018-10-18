@@ -28,7 +28,7 @@ namespace CuestionarioDemo
             btnLogin = (Button)FindViewById(Resource.Id.btnLogin);
 
             btnLogin.Click += delegate {
-                
+                StartActivity(typeof(MenuActivity));
             };
 
             video = (VideoView)FindViewById(Resource.Id.videoPlay);
